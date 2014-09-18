@@ -1,0 +1,35 @@
+
+#header {
+	width: 1140px;
+	height: 200px;
+	display: inline-block;
+}
+
+#index_slideshow {
+	width: 1140px;
+	height: 500px;
+	margin-top: 30px;
+}
+
+#logo {
+	width: 300px;
+}
+
+
+.chinese_category {
+	height: 100px;
+}
+
+.english_category{
+	height: 100px;
+}
+
+.top_category {
+	width: 210px;
+	border-left: 3px;
+	border-color: gray;
+	border-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 16px;
+}
