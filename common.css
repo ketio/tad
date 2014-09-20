@@ -31,14 +31,14 @@
 
 .chinese_category {
 	height: 50px;
-	text-align: center;
+	text-align: right;
 	font-family: Microsoft JhengHei, 浙江民間書刻體;
 	color: gray;
 }
 
 .english_category{
 	height: 50px;
-	text-align: center;
+	text-align: right;
 	font-family: helvetica;
 	font-weight: lighter;
 	vertical-align: top;
