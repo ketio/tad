@@ -1,14 +1,15 @@
 @font-face{
 	font-family: "浙江民間書刻體"
-<<<<<<< HEAD
-	src:url('/TAD Fest(浙江民間書刻體.ttf');
-=======
 	src:url('font(浙江民間書刻體.ttf');
->>>>>>> FETCH_HEAD
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> FETCH_HEAD
 
 #content_wrapper{
+	position: relative;
 	margin: 0px auto;
 	width:1140px;
 }
