@@ -2,12 +2,15 @@
 #header {
 	width: 1140px;
 	height: 100px;
+	position: relative;
 }
 
 #index_slideshow {
 	width: 1140px;
 	height: 500px;
 	margin-top: 30px;
+	background-color: gray;
+	position: relative;
 }
 
 #logo {
