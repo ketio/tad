@@ -1,5 +1,6 @@
 
 #header {
+	margin-top: 20px;
 	width: 1140px;
 	height: 100px;
 	position: relative;
@@ -15,6 +16,7 @@
 
 #logo {
 	width: 300px;
+	margin-right: 200px;
 	display: inline-block;
 }
 
@@ -31,7 +33,6 @@
 
 .top_category {
 	width: 150px;
-	border-left: 3px;
 	border-color: gray;
 	border-style: solid;
 	text-align: center;
