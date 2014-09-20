@@ -6,7 +6,27 @@
 #content_wrapper{
 	position: relative;
 	margin: 0px auto;
-	width:1140px;
+	width: 1140px;
+}
+#facebook_content {
+	width: 500px;
+	height: 400px;
+	margin-top: 20px;
+	background-color: gray;
+}
+
+#facebook_title{
+	border-bottom-width: 2px;
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+	font-family: helvetica;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	width: 500px;
+	height: 30px;
+	margin-top: 30px;
+	font-size: 24px;
 }
 
 #header {
@@ -28,10 +48,65 @@
 	display: inline-block;
 }
 
+#media {
+	font-family: Microsoft JhengHei, 浙江民間書刻體;
+	color: gray;
+	font-size: 16px;
+	text-align: left;
+	height: 100px;
+	border-left-width: 1px;
+	border-left-color: gray;
+	border-left-style: solid;
+	text-align: left;
+	width: 600px;
+}
+
+#news_content {
+	width: 610px;
+	height:400px;
+	margin-top: 20px;
+	background-color: gray;
+	margin-right: 30px;
+}
+
+#news_title {
+	border-bottom-width: 2px;
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+	font-family: helvetica;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	width: 610px;
+	margin-right: 30px;
+	font-size: 24px;
+	height: 30px;
+	margin-top: 30px;
+}
+
+#subscription_text {
+	font-size: 24px;
+	font-family: helvetica;
+	font-weight: bold;
+	text-align: right;
+	margin-right: 10px;
+	margin-left: 190px;
+	color: black;
+	height: 30px;
+	width: 150px;
+}
+
+#subscription_function {
+	height: 30px;
+	width: 500px;
+	margin-right: 190px; 
+	background-color: gray;
+}
 
 .chinese_category {
 	height: 50px;
 	text-align: center;
+	vertical-align: text-bottom;
 	font-family: Microsoft JhengHei, 浙江民間書刻體;
 	color: gray;
 }
@@ -41,11 +116,16 @@
 	text-align: center;
 	font-family: helvetica;
 	font-weight: lighter;
-	vertical-align: top;
 	color: gray;
 }
 
+.subscription {
+	display: inline-block;
+	margin-top: 50px;
+}
+
 .top_category {
+	position: fixed;
 	width: 150px;
 	text-align: center;
 	font-size: 16px;
@@ -54,6 +134,24 @@
 	border-left-width: 1px;
 	border-left-color: gray;
 	border-left-style: solid;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.units {
+	font-family: Microsoft JhengHei, 浙江民間書刻體;
+	color: gray;
+	font-size: 16px;
+	text-align: left;
+	height: 100px;
+	border-left-width: 1px;
+	border-left-color: gray;
+	border-left-style: solid;
+	text-align: left;
+	width: 250px;
+	margin-right: 20px;
 }
 
 /*Bullet Navigator Skin*/
