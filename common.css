@@ -3,11 +3,28 @@
 	src:url('font(浙江民間書刻體.ttf');
 }
 
+#abouts_figure {
+	margin-top: 50px;
+	height: 495px;
+}
+
+#abouts_content {
+	height: 500px;
+	margin-top: 30px;
+	font-family: Microsoft JhengHei, 浙江民間書刻體;
+	color: gray;
+	font-size: 12px;
+}
+
 #content_wrapper{
 	position: relative;
 	margin: 0px auto;
 	width: 1140px;
 }
+
+
+
+
 #facebook_content {
 	width: 500px;
 	height: 400px;
