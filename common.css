@@ -14,7 +14,7 @@
 }
 
 #logo {
-	width: 350px;
+	width: 300px;
 	display: inline-block;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .top_category {
-	width: 210px;
+	width: 150px;
 	border-left: 3px;
 	border-color: gray;
 	border-style: solid;
