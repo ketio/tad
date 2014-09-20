@@ -14,17 +14,19 @@
 }
 
 #logo {
-	width: 400px;
+	width: 350px;
 	display: inline-block;
 }
 
 
 .chinese_category {
-	height: 20px;
+	height: 50px;
+	text-align: center;
 }
 
 .english_category{
-	height: 20px;
+	height: 50px;
+	text-align: center;
 }
 
 .top_category {
