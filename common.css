@@ -3,6 +3,12 @@
 	src:url('font(浙江民間書刻體.ttf');
 }
 
+body{
+	margin: 0px auto;
+	width:1140px;
+}
+
+
 #content_wrapper{
 	position: relative;
 }
