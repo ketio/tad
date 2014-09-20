@@ -33,6 +33,7 @@
 	height: 50px;
 	text-align: center;
 	font-family: Microsoft JhengHei, 浙江民間書刻體;
+	font: gray;
 }
 
 .english_category{
@@ -40,6 +41,7 @@
 	text-align: center;
 	font-family: helvetica;
 	vertical-align: text-top;
+	font: gray;
 }
 
 .top_category {
