@@ -29,11 +29,13 @@
 .chinese_category {
 	height: 50px;
 	text-align: center;
+	font-family: Microsoft JhengHei, 浙江民間書刻體;
 }
 
 .english_category{
 	height: 50px;
 	text-align: center;
+	font-family: helvetica;
 }
 
 .top_category {
