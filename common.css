@@ -1,8 +1,7 @@
 
 #header {
 	width: 1140px;
-	height: 200px;
-	display: inline-block;
+	height: 100px;
 }
 
 #index_slideshow {
@@ -13,15 +12,16 @@
 
 #logo {
 	width: 300px;
+	height: 40px;
 }
 
 
 .chinese_category {
-	height: 100px;
+	height: 40px;
 }
 
 .english_category{
-	height: 100px;
+	height: 40px;
 }
 
 .top_category {
