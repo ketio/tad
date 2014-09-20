@@ -39,6 +39,7 @@
 	height: 50px;
 	text-align: center;
 	font-family: helvetica;
+	vertical-align: text-top;
 }
 
 .top_category {
