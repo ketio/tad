@@ -8,13 +8,13 @@
 }
 
 body{
-	margin: 0px auto;
-	width:1140px;
+	
 }
 
 
 #content_wrapper{
-	position: relative;
+	margin: 0px auto;
+	width:1140px;
 }
 
 #header {
