@@ -111,17 +111,17 @@
 	font-weight: bold;
 	text-align: right;
 	margin-right: 10px;
-	margin-left: 190px;
 	color: black;
 	height: 30px;
 	width: 150px;
+	display: inline-block;
 }
 
 #subscription_function {
 	height: 30px;
-	width: 500px;
-	margin-right: 190px; 
+	width: 500px; 
 	background-color: gray;
+	display: inline-block;
 }
 
 .chinese_category {
@@ -143,6 +143,8 @@
 .subscription {
 	display: inline-block;
 	margin-top: 50px;
+	margin-left: 190px;
+	margin-right: 190px;
 }
 
 .top_category {
