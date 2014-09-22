@@ -78,6 +78,7 @@
 	border-left-style: solid;
 	text-align: left;
 	width: 600px;
+	display: inline-block;
 }
 
 #news_content {
@@ -159,6 +160,7 @@
 }
 
 .units {
+	display: inline-block;
 	font-family: Microsoft JhengHei, 浙江民間書刻體;
 	color: gray;
 	font-size: 16px;
