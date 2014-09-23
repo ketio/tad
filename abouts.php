@@ -15,7 +15,7 @@
 		?>
 		<!-- content -->
 		<div id="abouts_figure">
-			<img src="img/about_figure.png">
+			<img src="img/about_photo.jpg">
 		</div>
 		<div id="abouts_content">
 			<span>提到內湖、大直地區，大家會想到什麼呢？如果你的印象還只停留在美麗華的摩天輪，或是充斥辦公大樓的科技園區，那可就要好好來趟大內藝術節了！</span>
