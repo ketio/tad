@@ -4,7 +4,7 @@
 }
 
 
-#abouts_figure {
+#abouts_figure > img{
 	margin-top: 50px;
 	height: 400px;
 	width: 1140px;
@@ -13,7 +13,7 @@
 #abouts_content {
 	height: 500px;
 	margin-top: 30px;
-	font-family: Microsoft JhengHei, 浙江民間書刻體;
+	font-family: 浙江民間書刻體, Microsoft JhengHei;
 	color: gray;
 	font-size: 12px;
 }
