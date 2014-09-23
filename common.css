@@ -23,6 +23,10 @@
 	display: inline-block;
 }
 
+#abouts_content > span {
+	margin-bottom: 20px;
+}
+
 
 #content_wrapper{
 	position: relative;
