@@ -1,8 +1,19 @@
 http://artemperor.tw/news/5318
+<div id="content_wrapper">
+	<div class="date_news">
+		<div>
+			2014/07/30
+		</div>
+		<div>
+			學學文創
+		</div>
+	</div>
 
-學學文創：台北大內藝術區成立
-
-
+	<div class="news_title">
+		台北大內藝術區成立
+	</div>
+	<hr>
+</div>
 
 「藝術」－是台北市重要的城市風景 
 
