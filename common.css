@@ -137,17 +137,15 @@
 }
 
 .date_news > div{
-	font-size: 36px;
-	font: white;
+	font-size: 24px;
+	color: white;
 	font-family: Microsoft JhengHei;
-	font-weight: bold;
 }
 
 .news_title{
-	font-weight: bold;
 	font-family: Microsoft JhengHei;
-	font: #15191f;
-	font-size: 64px;
+	color: #15191f;
+	font-size: 48px;
 }
 
 .subscription {
