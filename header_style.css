@@ -15,6 +15,14 @@ a:hover {
 	font-weight: bold;
 } 
 
+.active_list{
+	visibility: hidden;
+	position:absolute;
+	background:white;
+	right:220px;
+	top:70px;
+}
+
 #header {
 	margin-top: 20px;
 	width: 1140px;
@@ -22,7 +30,7 @@ a:hover {
 }
 
 .chinese_category {
-	height: 50px;
+	//height: 50px;
 	text-align: center;
 	vertical-align: text-bottom;
 	font-family: 浙江民間書刻體, Microsoft JhengHei;
@@ -30,7 +38,7 @@ a:hover {
 }
 
 .english_category{
-	height: 50px;
+	//height: 50px;
 	text-align: center;
 	font-family: helvetica;
 	color: gray;
@@ -38,6 +46,8 @@ a:hover {
 
 .top_category {
 	width: 150px;
+	height:100px;
+	//line-height:0px;
 	text-align: center;
 	font-size: 16px;
 	display: inline-block;

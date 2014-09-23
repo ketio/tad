@@ -104,7 +104,7 @@
 
 					<!-- Loading Screen -->
 					<div u="loading" style="position: absolute; top: 0px; left: 0px;">
-						<div style="filter: alpha(opacity=70); opacity:1; position: absolute; display: block;
+						<div style="filter: alpha(opacity=70); opacity:1;background:#15191f; position: absolute; display: block;
 							 top: 0px; left: 0px;width: 100%;height:100%;">
 						</div>
 						<div style="position:absolute; display: block; top: 0px; left: 0px;width: 100%;height:100%; width:100%;text-align:center">

@@ -1,3 +1,4 @@
+
 http://artemperor.tw/news/5318
 <div id="content_wrapper">
 	<div class="date_news">
