@@ -13,34 +13,43 @@ $(document).ready(function(){
 
 <link type="text/css" rel="stylesheet" href="header_style.css"/>
 <link type="text/css" rel="stylesheet" href="common.css"/>
+
 <div id="header">
 	<div id="logo">
 		<a href="index.php"><img src="img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
 		<a href="abouts.php">
-			<div class="chinese_category">
-			關於
-			</div>
-			<div class="english_category">
-			ABOUTS
+			<div class="top_category_item">
+				<div class="chinese_category">
+				關於
+				</div>
+				<div class="english_category">
+				ABOUTS
+				</div>
 			</div>
 		</a>
 	</div>
 	<div class="top_category">
-		<div class="chinese_category">
-		TAD 地圖
-		</div>
-		<div class="english_category">
-		TAD MAP
-		</div>
+		<a href="abouts.php">
+			<div class="top_category_item">
+				<div class="chinese_category">
+				TAD 地圖
+				</div>
+				<div class="english_category">
+				TAD MAP
+				</div>
+			</div>
+		</a>
 	</div>
 	<div id="activities" class="top_category">
-		<div class="chinese_category">
-		活動
-		</div>
-		<div class="english_category">
-		ACTIVITIES
+		<div class="top_category_item">
+			<div class="chinese_category">
+			活動
+			</div>
+			<div class="english_category">
+			ACTIVITIES
+			</div>
 		</div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
@@ -56,16 +65,15 @@ $(document).ready(function(){
 		</div>
 	</div>
 	<div class="top_category">
-		<div class="chinese_category">
-		近期文章
-		</div>
-		<div class="english_category">
-		ARTICLES
+		<div class="top_category_item">
+			<div class="chinese_category">
+			近期文章
+			</div>
+			<div class="english_category">
+			ARTICLES
+			</div>
 		</div>
 	</div>
-	
-
-	
 </div>
 
 

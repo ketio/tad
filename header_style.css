@@ -56,3 +56,7 @@ a:hover {
 	border-left-color: gray;
 	border-left-style: solid;
 }
+
+.top_category_item{
+	padding:25px;
+}

@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<link type="text/css" rel="stylesheet" href="common.css"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title></title>
 	
-	<!-- it works the same with all jquery version from 1.x to 2.x -->
 	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-	<!-- use jssor.slider.mini.js (40KB) or jssor.sliderc.mini.js (32KB, with caption, no slideshow) or jssor.sliders.mini.js (28KB, no caption, no slideshow) instead for release -->
-	<!-- jssor.slider.mini.js = jssor.sliderc.mini.js = jssor.sliders.mini.js = (jssor.core.js + jssor.utils.js + jssor.slider.js) -->
 	<script type="text/javascript" src="js/jssor.core.js"></script>
 	<script type="text/javascript" src="js/jssor.utils.js"></script>
 	<script type="text/javascript" src="js/jssor.slider.js"></script>
@@ -99,7 +95,6 @@
 			<div id="index_slideshow">
 			
 				<!-- Jssor Slider Begin -->
-				<!-- You can move inline styles to css file or css block. -->
 				<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 1140px; height: 494px; overflow: hidden; ">
 
 					<!-- Loading Screen -->
@@ -139,7 +134,6 @@
 						<!-- bullet navigator item prototype -->
 						<div u="prototype" style="POSITION: absolute; WIDTH: 16px; HEIGHT: 16px;"></div>
 					</div>
-					<!-- Bullet Navigator Skin End -->
 					<!-- Arrow Navigator Skin Begin -->
 					<!-- Arrow Left -->
 					<span u="arrowleft" class="jssora12l" style="width: 30px; height: 46px; top: 230px; left: 0px;">
@@ -182,6 +176,7 @@
 					
 				</div>
 			</div>
+			
 			<!-- header -->
 			<?php 
 				include_once "footer.php"; 
