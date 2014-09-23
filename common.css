@@ -4,28 +4,25 @@
 }
 #abouts_figure {
 	display: inline-block;
+	margin-top: 100px;
+	margin-right: 40px;
 }
 
 #abouts_figure > img{
-	margin-top: 50px;
 	height: 899px;
 	width: 600px;
-	margin-right: 40px;
 }
 
 #abouts_content {
 	height: 899px;
-	width: 500px;
-	margin-top: 30px;
+	width: 480px;
+	margin-top: 100px;
 	font-family: 浙江民間書刻體, Microsoft JhengHei;
 	color: gray;
 	font-size: 20px;
 	display: inline-block;
 }
 
-#abouts_content > span {
-	margin-top: 10px;
-}
 
 #content_wrapper{
 	position: relative;
