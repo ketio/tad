@@ -1,0 +1,49 @@
+@font-face{
+	font-family: "浙江民間書刻體"
+	src:url('font(浙江民間書刻體.ttf');
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+} 
+
+#header {
+	margin-top: 20px;
+	width: 1140px;
+	height: 100px;
+}
+
+.chinese_category {
+	height: 50px;
+	text-align: center;
+	vertical-align: text-bottom;
+	font-family: 浙江民間書刻體, Microsoft JhengHei;
+	color: gray;
+}
+
+.english_category{
+	height: 50px;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: lighter;
+	color: gray;
+}
+
+.top_category {
+	width: 150px;
+	text-align: center;
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	border-left-width: 1px;
+	border-left-color: gray;
+	border-left-style: solid;
+}
