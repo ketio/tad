@@ -9,6 +9,7 @@
 	height: 400px;
 	width: 500px;
 	margin-right: 140px;
+	display: inline-block;
 }
 
 #abouts_content {
@@ -18,6 +19,7 @@
 	font-family: 浙江民間書刻體, Microsoft JhengHei;
 	color: gray;
 	font-size: 18px;
+	display: inline-block;
 }
 
 #abouts_content > span {
