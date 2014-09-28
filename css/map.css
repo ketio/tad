@@ -1,7 +1,125 @@
 #map{
-	width:1140px;
-	height:800px;
+	position:relative;
+	width:800px;
+	height:450px;
 	background: url(../img/tadmap.png);
 	background-size:cover;
 	margin-top:50px;
+}
+.marker{
+	width:20px;
+	height:30px;
+	background: url(../img/mapmark.png);
+	background-size:cover;
+	text-align: center;
+	font-size: 10pt;
+	font-family: 微軟正黑體;
+	line-height: 20px;
+}
+.marker:hover{
+}
+#marker_1{
+	position:absolute;
+	left:100px;
+	top:80px;
+}
+#marker_2{
+	position:absolute;
+	left:65px;
+	top:170px;
+}
+#marker_3{
+	position:absolute;
+	left:65px;
+	top:85px;
+}
+#marker_4{
+	position:absolute;
+	left:55px;
+	top:370px;
+}
+#marker_5{
+	position:absolute;
+	left:125px;
+	top:205px;
+}
+#marker_6{
+	position:absolute;
+	left:330px;
+	top:75px;
+}
+#marker_7{
+	position:absolute;
+	left:340px;
+	top:285px;
+}
+#marker_8{
+	position:absolute;
+	left:465px;
+	top:150px;
+}
+#marker_9{
+	position:absolute;
+	left:495px;
+	top:160px;
+}
+#marker_10{
+	position:absolute;
+	left:525px;
+	top:155px;
+}
+#marker_11{
+	position:absolute;
+	left:418px;
+	top:250px;
+}
+#marker_12{
+	position:absolute;
+	left:340px;
+	top:200px;
+}
+#marker_13{
+	position: absolute;
+	left: 550px;
+	top: 255px;
+}
+#marker_14{
+	position:absolute;
+	left: 585px;
+	top: 265px;
+}
+#marker_15{
+	position:absolute;
+	left: 670px;
+	top: 160px;
+}
+#marker_16{
+	position:absolute;
+	left: 735px;
+	top: 210px;
+}
+#marker_17{
+	position:absolute;
+	left:px;
+	top:px;
+}
+#marker_18{
+	position:absolute;
+	left: 685px;
+	top: 270px;
+}
+#marker_19{
+	position:absolute;
+	left: 370px;
+	top: 240px;
+}
+#marker_20{
+	position:absolute;
+	left: 445px;
+	top: 250px;
+}
+#marker_21{
+	position:absolute;
+	left:px;
+	top:px;
 }
