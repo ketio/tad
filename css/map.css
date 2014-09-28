@@ -1,0 +1,7 @@
+#map{
+	width:1140px;
+	height:800px;
+	background: url(../img/tadmap.png);
+	background-size:cover;
+	margin-top:50px;
+}

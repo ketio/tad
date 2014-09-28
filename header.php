@@ -11,8 +11,8 @@ $(document).ready(function(){
 });
 </script>
 
-<link type="text/css" rel="stylesheet" href="header_style.css"/>
-<link type="text/css" rel="stylesheet" href="common.css"/>
+<link type="text/css" rel="stylesheet" href="css/header_style.css"/>
+<link type="text/css" rel="stylesheet" href="css/common.css"/>
 
 <div id="header">
 	<div id="logo">
@@ -31,7 +31,7 @@ $(document).ready(function(){
 		</a>
 	</div>
 	<div class="top_category">
-		<a href="abouts.php">
+		<a href="map.php">
 			<div class="top_category_item">
 				<div class="chinese_category">
 				TAD 地圖
