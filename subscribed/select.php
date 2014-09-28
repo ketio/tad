@@ -1,5 +1,5 @@
 <?php
-	$mysqli = new mysqli('localhost', 'root', '', 'tad');
+	$mysqli = new mysqli('localhost', 'tadfesti_liang', 'zaqwedcxsgengyu81', 'tadfesti_tad');
 
 	if(mysqli_connect_errno()){echo "error~";}
 	

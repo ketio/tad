@@ -2,7 +2,7 @@
 $name=$_GET["name"];
 $email=$_GET["email"];
 
-	$mysqli = new mysqli('localhost', 'root', '', 'tad');
+	$mysqli = new mysqli('localhostt', 'tadfesti_liang', 'zaqwedcxsgengyu81', 'tadfesti_tad');
 
 	if(mysqli_connect_errno()){echo "error~";}
 	
