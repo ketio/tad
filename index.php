@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 	<head>
 	<link rel="stylesheet" type="text/css" href="common.css">
@@ -115,19 +115,13 @@
 					<!-- Slides Container -->
 					<div u="slides" style="position: absolute; left: 0px; top: 0px; width: 1140px; height: 494px; overflow: hidden;">
 						<div>
-							<img u="image" src="img/slider/tad_logo.png" />
+							<img u="image" src="img/slider/slider1.png" />
+						</div>
+						<div>
+							<img u="image" src="img/slider/slider2.png" />
 						</div>
 						<div>
 							<img u="image" src="img/slider/_0006397.png" />
-						</div>
-						<div>
-							<img u="image" src="img/slider/_0006651.png" />
-						</div>
-						<div>
-							<img u="image" src="img/slider/_0007041.png" />
-						</div>
-						<div>
-							<img u="image" src="img/slider/_000741.png" />
 						</div>
 					</div>
 					<!-- bullet navigator container -->
