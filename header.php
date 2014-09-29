@@ -12,8 +12,6 @@ $(document).ready(function(){
 </script>
 
 <link type="text/css" rel="stylesheet" href="css/header_style.css"/>
-<link type="text/css" rel="stylesheet" href="css/common.css"/>
-
 <div id="header">
 	<div id="logo">
 		<a href="index.php"><img src="img/Web_logo.png" height="100"></a>

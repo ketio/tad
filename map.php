@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<link rel="stylesheet" href="css/map.css">
+	<link type="text/css" rel="stylesheet" href="css/common.css"/>
+	<link rel="stylesheet" href="css/map.css">	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title></title>
 	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
