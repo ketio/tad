@@ -1,6 +1,9 @@
 @font-face{
 	font-family: "KozGo"
-	src:url('font(KozGoPro-Regular.otf');
+	src:url('font(KozGoPro-Regular.otf'), url('font(KozGoPro-Bold.otf'), 
+		url('font(KozGoPro-ExtraLight.otf'), url('font(KozGoPro-Light.otf'),
+		url('font(KozGoPro-Heavy.otf'), url('font(KozGoPro-Medium.otf');
+
 }
 #abouts_figure {
 	display: inline-block;
