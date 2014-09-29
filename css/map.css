@@ -1,6 +1,19 @@
 #content{
 	margin-top:50px;
 }
+#detail_info{
+	height:190px;
+	margin-bottom:10px;
+}
+#gallery{
+	height:250px;
+}
+.gallery_detail_info{
+	position:absolute;
+	visibility: hidden;
+	width:300px;
+	height:190px;
+}
 #gallery_marker_1{
 	position:absolute;
 	left:100px;
@@ -9,7 +22,7 @@
 #gallery_marker_2{
 	position:absolute;
 	left:65px;
-	top:170px;
+	top:150px;
 }
 #gallery_marker_3{
 	position:absolute;
@@ -24,7 +37,7 @@
 #gallery_marker_5{
 	position:absolute;
 	left:125px;
-	top:205px;
+	top:175px;
 }
 #gallery_marker_6{
 	position:absolute;
@@ -53,8 +66,8 @@
 }
 #gallery_marker_11{
 	position:absolute;
-	left:418px;
-	top:250px;
+	left: 424px;
+	top: 230px;
 }
 #gallery_marker_12{
 	position:absolute;
@@ -63,13 +76,13 @@
 }
 #gallery_marker_13{
 	position: absolute;
-	left: 550px;
-	top: 255px;
+	left: 554px;
+	top: 235px;
 }
 #gallery_marker_14{
 	position:absolute;
 	left: 585px;
-	top: 265px;
+	top: 244px;
 }
 #gallery_marker_15{
 	position:absolute;
@@ -83,8 +96,8 @@
 }
 #gallery_marker_17{
 	position:absolute;
-	left:px;
-	top:px;
+	left: 652px;
+	top: 370px;
 }
 #gallery_marker_18{
 	position:absolute;
@@ -93,18 +106,18 @@
 }
 #gallery_marker_19{
 	position:absolute;
-	left: 370px;
-	top: 240px;
+	left: 375px;
+	top: 210px;
 }
 #gallery_marker_20{
 	position:absolute;
-	left: 445px;
-	top: 250px;
+	left: 453px;
+	top: 229px;
 }
 #gallery_marker_21{
 	position:absolute;
-	left:px;
-	top:px;
+	left: 705px;
+	top: 373px;
 }
 #info_interface{
 	position:relative;
@@ -113,6 +126,21 @@
 	margin-left:35px;
 	display: inline-block;
 	vertical-align:top;
+}
+.info_item{
+	font-family:微軟正黑體;
+	font-size:11pt;
+	width:140px;
+	height:23px;
+	display: inline-block;
+	color:black;
+	cursor:pointer;
+}
+.info_item:hover{
+	font-weight:bold;	
+}
+.info_item_chosen{
+	color:blue;
 }
 #map{
 	position:relative;
@@ -133,6 +161,9 @@
 	font-family: 微軟正黑體;
 	line-height: 20px;
 	cursor:pointer;
+}
+.marker_chosen{
+	 -webkit-filter: hue-rotate(90deg);
 }
 .marker:hover{
 	 transform: scale(1.2);
