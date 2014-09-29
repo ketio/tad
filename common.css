@@ -47,7 +47,7 @@
 	border-bottom-width: 2px;
 	border-bottom-color: gray;
 	border-bottom-style: solid;
-	font-family: helvetica;
+	font-family: KozGo;
 	font-weight: bold;
 	color: black;
 	text-align: center;
@@ -99,7 +99,7 @@
 	border-bottom-width: 2px;
 	border-bottom-color: gray;
 	border-bottom-style: solid;
-	font-family: helvetica;
+	font-family: KozGo;
 	font-weight: bold;
 	color: black;
 	text-align: center;
@@ -113,7 +113,7 @@
 
 #subscription_text {
 	font-size: 24px;
-	font-family: helvetica;
+	font-family: KozGo;
 	font-weight: bold;
 	text-align: right;
 	margin-right: 10px;
