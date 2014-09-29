@@ -194,7 +194,7 @@
 .jssorb05 .dn           (mousedown)
 */
 .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
-	background: url(img/slider/b05.png) no-repeat;
+	background: url(../img/slider/b05.png) no-repeat;
 	overflow: hidden;
 	cursor: pointer;
 }
@@ -229,7 +229,7 @@
 	position: absolute;
 	cursor: pointer;
 	display: block;
-	background: url(img/slider/a12.png) no-repeat;
+	background: url(../img/slider/a12.png) no-repeat;
 	overflow: hidden;
 }
 
