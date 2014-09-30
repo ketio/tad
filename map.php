@@ -68,7 +68,7 @@
 							<div class="detail_info_website"></div>
 						</div>
 						<div id="gallery_detail_info_2" data="2" class="gallery_detail_info">
-							<div class="detail_info_name">餘白 Yohaku Gallery</div>
+							<div class="detail_info_name">餘白藝廊 Yohaku Gallery</div>
 							<div class="detail_info_address">台北市中山區敬業二路69巷28號</div>
 							<div class="detail_info_website"></div>
 						</div>		
@@ -113,7 +113,7 @@
 							<div class="detail_info_website"></div>
 						</div>		
 						<div id="gallery_detail_info_11" data="11" class="gallery_detail_info">
-							<div class="detail_info_name">曼谷藝術 Ming Art Gallery</div>
+							<div class="detail_info_name">旻谷藝術 Ming Art Gallery</div>
 							<div class="detail_info_address">台北市內湖區堤頂大道二段295號</div>
 							<div class="detail_info_website"></div>
 						</div>		
@@ -170,7 +170,7 @@
 					</div>
 					<div id="gallery">
 						<div id="gallery_info_1" data="1" class="info_item">采泥藝術</div>
-						<div id="gallery_info_2" data="2" class="info_item">餘白</div>
+						<div id="gallery_info_2" data="2" class="info_item">餘白藝廊</div>
 						<div id="gallery_info_3" data="3" class="info_item">菲利浦畫廊</div>
 						<div id="gallery_info_4" data="4" class="info_item">青雲畫廊</div>
 						<div id="gallery_info_5" data="5" class="info_item">亞洲藝術中心</div>
