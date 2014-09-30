@@ -73,20 +73,6 @@
 	display: inline-block;
 }
 
-#media {
-	font-family: KozGo;
-	color: gray;
-	font-size: 16px;
-	text-align: left;
-	height: 100px;
-	border-left-width: 1px;
-	border-left-color: gray;
-	border-left-style: solid;
-	text-align: left;
-	width: 600px;
-	display: inline-block;
-}
-
 #news_content {
 	width: 610px;
 	height:400px;
@@ -154,29 +140,6 @@
 	margin-left: 190px;
 	margin-right: 190px;
 	margin-bottom: 100px;
-}
-
-.top_category {
-	width: 150px;
-	text-align: center;
-	font-size: 16px;
-	display: inline-block;
-	vertical-align: top;
-	border-left-width: 1px;
-	border-left-color: gray;
-	border-left-style: solid;
-}
-
-.units {
-	display: inline-block;
-	font-family: KozGo;
-	color: gray;
-	font-size: 16px;
-	text-align: left;
-	height: 100px;
-	text-align: left;
-	width: 250px;
-	margin-right: 20px;
 }
 
 /*Bullet Navigator Skin*/

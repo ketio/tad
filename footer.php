@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="css/footer_style.css"/>
 <!-- unit introduction -->
 <div>
 	<div class="units">

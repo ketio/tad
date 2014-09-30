@@ -1,0 +1,25 @@
+.units {
+	display: inline-block;
+	font-family: KozGo;
+	color: gray;
+	font-size: 16px;
+	text-align: left;
+	height: 100px;
+	text-align: left;
+	width: 250px;
+	margin-right: 20px;
+}
+
+#media {
+	font-family: KozGo;
+	color: gray;
+	font-size: 16px;
+	text-align: left;
+	height: 100px;
+	border-left-width: 1px;
+	border-left-color: gray;
+	border-left-style: solid;
+	text-align: left;
+	width: 600px;
+	display: inline-block;
+}
