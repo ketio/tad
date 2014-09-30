@@ -179,7 +179,7 @@
 						<div id="gallery_info_8" data="8" class="info_item">耿畫廊</div>
 						<div id="gallery_info_9" data="9" class="info_item">TKG+</div>
 						<div id="gallery_info_10" data="10" class="info_item">TKG+ Projects</div>
-						<div id="gallery_info_11" data="11" class="info_item">曼谷藝術</div>
+						<div id="gallery_info_11" data="11" class="info_item">旻谷藝術</div>
 						<div id="gallery_info_12" data="12" class="info_item">威廉藝術沙龍</div>
 						<div id="gallery_info_13" data="13" class="info_item">學學白色空間</div>
 						<div id="gallery_info_14" data="14" class="info_item">學學原色空間</div>
