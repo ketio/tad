@@ -45,22 +45,21 @@ $(document).ready(function(){
 		<div class="category_bar"></div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
-			<div class="active_list_item">
-				<a href="theme_exhibit.php">
+			<a href="theme_exhibit.php">
+				<div class="active_list_item">
 					年度主題展
-<<<<<<< HEAD
 				</div>
 			</a>
-=======
-				</a>
-			</div>			
->>>>>>> FETCH_HEAD
-			<div class="active_list_item">
+			<a href="guide.php">
+				<div class="active_list_item">
 				導覽
-			</div>
-			<div class="active_list_item">
-				講座
-			</div>
+				</div>
+			</a>
+			<a href="workshop.php">
+				<div class="active_list_item">
+					講座
+				</div>
+			</a>
 		</div>
 	</div>
 	<div class="top_category">
