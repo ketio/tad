@@ -147,10 +147,18 @@
 
 .arthur_photo {
 	width: 200px;
+	display: inline-block;
 }
 
-.arthur_photo:hover {
-	background-image: url(../img/themeexhibit/josef-personal(城市精神).jpg);
+.arthur_info {
+	display: inline-block;
+	color: gray;
+	line-height: 30px;
+	text-indent: 32px;
+	font-family: KozGo;
+	font-size: 16px;
+	width: 730px;
+	margin-left: 25px; 
 }
 
 .date_news {
@@ -196,7 +204,7 @@
 
 .theme_content {
 	color: gray;
-	line-height: 25px;
+	line-height: 30px;
 	text-indent: 32px;
 	font-family: KozGo;
 }
