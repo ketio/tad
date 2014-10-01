@@ -51,11 +51,12 @@ $(document).ready(function(){
 				</a>
 			</div>			
 			<div class="active_list_item">
-			導覽
+				導覽
 			</div>
 			<div class="active_list_item">
-			講座
+				講座
 			</div>
+			<div class="category_bar"></div>
 		</div>
 	</div>
 	<div class="top_category">
