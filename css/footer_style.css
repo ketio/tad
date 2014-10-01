@@ -8,9 +8,6 @@
 	line-height: 20px;
 	width: 250px;
 	margin-right: 20px;
-}
-
-.unit_title > div {
 	display: inline-block;
 }
 
@@ -20,10 +17,9 @@
 	margin-right: 20px;
 }
 
-.unit_graph > div {
-	display: inline-block;
+.image_cell{
+	vertical-align:top;
 }
-
 #media {
 	font-family: KozGo;
 	color: gray;

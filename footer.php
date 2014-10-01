@@ -2,37 +2,43 @@
 <!-- unit introduction -->
 <table>
 	<tr>
-		<td>
-			<div>
+		<td class="title_cell">
+			<div class="unit_title">
 				主辦單位
 			</div>
 		</td>
-		<td>
-			<div>
+		<td class="title_cell">
+			<div class="unit_title">
 				執行單位
 			</div>
 		</td>
-		<td>
-			<div>
+		<td class="title_cell">
+			<div class="unit_title">
 				媒體合作
 			</div>		
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="image_cell">
 			<div>
-				<a href="http://www.culture.gov.tw"><img src="img/footer/taipeiculture_gray.png" width="250"></a>
+				<a href="http://www.culture.gov.tw">
+					<img src="img/footer/taipeiculture_gray.png" class="unit_graph" />
+				</a>
 			</div>
 			<div>
-				<a href="http://www.culture.gov.tw"><img src="img/footer/taipeiart_gray.png" width="250"></a>
+				<a href="http://www.culture.gov.tw">
+					<img src="img/footer/taipeiart_gray.png" class="unit_graph" />
+				</a>
 			</div>
 		</td>
-		<td>
+		<td class="image_cell">
 			<div>
-				<a href="http://www.aga.org.tw"><img src="img/footer/taiwanatrgallery_gray.png" width="250"></a>
+				<a href="http://www.aga.org.tw">
+					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" />
+				</a>
 			</div>	
 		</td>
-		<td>
+		<td class="image_cell">
 			
 		</td>		
 	</tr>
