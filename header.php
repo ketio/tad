@@ -65,7 +65,7 @@ $(document).ready(function(){
 	<div class="top_category">
 		<div class="top_category_item">
 			<div class="chinese_category">
-			近期文章
+			媒體報導
 			</div>
 			<div class="english_category">
 			ARTICLES

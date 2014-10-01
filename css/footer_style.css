@@ -1,13 +1,27 @@
-.units {
-	display: inline-block;
+
+.unit_title {
 	font-family: KozGo;
 	color: gray;
 	font-size: 16px;
-	text-align: left;
-	height: 100px;
-	text-align: left;
+	height: 20px;
+	text-align: left center;
+	line-height: 20px;
 	width: 250px;
 	margin-right: 20px;
+}
+
+.unit_title > div {
+	display: inline-block;
+}
+
+.unit_graph {
+	display: inline-block;
+	width: 250px;
+	margin-right: 20px;
+}
+
+.unit_graph > div {
+	display: inline-block;
 }
 
 #media {
@@ -16,10 +30,8 @@
 	font-size: 16px;
 	text-align: left;
 	height: 100px;
-	border-left-width: 1px;
-	border-left-color: gray;
-	border-left-style: solid;
 	text-align: left;
 	width: 600px;
 	display: inline-block;
 }
+
