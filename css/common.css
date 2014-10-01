@@ -119,6 +119,27 @@
 	display: inline-block;
 }
 
+#theme_exhibit {
+	margin-top: 100px;
+	width:960px;
+	height: 1000px;
+	margin-left: 90px;
+}
+
+#theme_title {
+	color: black;
+	font-family: KozGo;
+	text-align: left;
+	font-size: 24px;
+}
+
+#theme_sub {
+	color: black;
+	font-family: KozGo;
+	text-align: left;
+	font-size: 16px;
+}
+
 .date_news {
 	background-color: #15191f;
 	width: 300px;
