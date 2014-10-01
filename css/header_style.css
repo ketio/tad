@@ -25,10 +25,12 @@ a:visited {
 
 .active_list > a:link{
 	text-decoration: none;
+	color: black;
 }
 
 .active_list > a:visited{
 	text-decoration: none;
+	color: black;
 }
 
 #header {
