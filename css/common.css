@@ -141,6 +141,18 @@
 	font-weight: lighter;
 }
 
+.arthur {
+	display: inline-block;
+}
+
+.arthur_photo {
+	width: 200px;
+}
+
+.arthur_photo:hover {
+	background-image: url(../img/themeexhibit/josef-personal(城市精神).jpg);
+}
+
 .date_news {
 	background-color: #15191f;
 	width: 300px;

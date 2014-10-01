@@ -33,6 +33,12 @@
 				<div class="theme_name">
 					不同的移動速度與觀看：Josef Bares（捷克籍）
 				</div>
+				<div class="arthur">
+					<div class="arthur_photo">
+						<img src="img/themeexhibit/josef-personal(城市精神)_gray.jpg">
+					</div>
+				</div>
+					
 				
 			</div>
 		</div>
