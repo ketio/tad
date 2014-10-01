@@ -19,36 +19,30 @@ $(document).ready(function(){
 	<div class="top_category">
 		<a href="abouts.php">
 			<div class="top_category_item">
-				<div class="chinese_category">
 				關於
-				</div>
-				<div class="english_category">
+				<br>
 				ABOUTS
-				</div>
 			</div>
+			<div class="category_bar"></div>
 		</a>
 	</div>
 	<div class="top_category">
 		<a href="map.php">
 			<div class="top_category_item">
-				<div class="chinese_category">
 				TAD 地圖
-				</div>
-				<div class="english_category">
+				<br>
 				TAD MAP
-				</div>
 			</div>
+			<div class="category_bar"></div>
 		</a>
 	</div>
 	<div id="activities" class="top_category">
 		<div class="top_category_item">
-			<div class="chinese_category">
 			活動
-			</div>
-			<div class="english_category">
+			<br>
 			ACTIVITIES
-			</div>
 		</div>
+		<div class="category_bar"></div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
 			<div class="active_list_item">
@@ -64,13 +58,11 @@ $(document).ready(function(){
 	</div>
 	<div class="top_category">
 		<div class="top_category_item">
-			<div class="chinese_category">
 			媒體報導
-			</div>
-			<div class="english_category">
+			<br>
 			ARTICLES
-			</div>
 		</div>
+		<div class="category_bar"></div>
 	</div>
 </div>
 

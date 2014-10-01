@@ -8,25 +8,29 @@
 	display: inline-block;
 	margin-top: 100px;
 	margin-right: 40px;
+	margin-left: 90px;
 }
 
 #abouts_figure > img{
-	height: 899px;
-	width: 600px;
+	width: 400px;
 }
 
 #abouts_content {
-	height: 899px;
+	height: 605px;
 	width: 480px;
 	margin-top: 100px;
 	font-family: KozGo;
+	font-weight: lighter;
 	color: gray;
-	font-size: 20px;
+	font-size: 16px;
 	display: inline-block;
+	line-height: 30px
+	
 }
 
-#abouts_content > span {
-	margin-bottom: 20px;
+#abouts_content > div {
+	margin-bottom: 10px;
+	text-indent: 30px;
 }
 
 

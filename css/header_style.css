@@ -1,6 +1,8 @@
 @font-face{
-	font-family: "浙江民間書刻體";
-	src:url(../font/浙江民間書刻體.ttf);
+	font-family: "KozGo";
+	src:url('../font/KozGoPro-Regular.otf'), url('../font/KozGoPro-Bold.otf'), 
+		url('../font/KozGoPro-ExtraLight.otf'), url('../font/KozGoPro-Light.otf'),
+		url('../font/KozGoPro-Heavy.otf'), url('../font/KozGoPro-Medium.otf');
 }
 
 a:link {
@@ -11,16 +13,14 @@ a:visited {
     text-decoration: none;
 }
 
-a:hover {
-	font-weight: bold;
-} 
 
 .active_list{
 	visibility: hidden;
 	position:absolute;
 	background:white;
-	right:220px;
-	top:70px;
+	right:203px;
+	top:105px;
+	z-index: 1;
 }
 
 #header {
@@ -29,34 +29,42 @@ a:hover {
 	height: 100px;
 }
 
-.chinese_category {
-	//height: 50px;
+.active_list_item {
+	width: 100px;
+	height: 35px;
 	text-align: center;
-	vertical-align: text-bottom;
-	font-family: KozGo;
-	color: gray;
+	line-height: 35px;
 }
 
-.english_category{
-	//height: 50px;
-	text-align: center;
-	font-family: helvetica;
-	color: gray;
+.active_list_item:hover{
+	color:white;
+	background-color: black;
+}
+
+.category_bar {
+	width: 100px;
+	height: 5px;
+	position: relative;
+	margin-left: 25px;
+	background-color: #c2c2c2;
+}
+
+.category_bar:hover{
+	background-color: black;
 }
 
 .top_category {
 	width: 150px;
-	height:100px;
-	//line-height:0px;
-	text-align: center;
+	height:50px;
+	margin-top: 50px;
 	font-size: 16px;
+	line-height: 20px;
 	display: inline-block;
-	vertical-align: top;
-	border-left-width: 1px;
-	border-left-color: gray;
-	border-left-style: solid;
+	vertical-align: bottom;
 }
 
 .top_category_item{
-	padding:25px;
+	text-align: center;
+	font-family: KozGo;
+	color: gray;
 }
