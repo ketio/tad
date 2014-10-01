@@ -8,6 +8,14 @@ $(document).ready(function(){
 	$("#activities").mouseleave(function(){
 		$("#active_list").css("visibility","hidden");
 	});
+
+	$(".top_category").hover(function() {
+		$(this).find(".top_category_item").addClass("top_category_item_hover");
+		$(this).find(".category_bar").addClass("category_bar_hover");	
+	  }, function() {
+		$(this).find(".category_bar").removeClass("category_bar_hover");
+	  }
+	);
 });
 </script>
 
