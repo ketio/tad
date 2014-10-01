@@ -169,14 +169,34 @@
 }
 
 .theme_category {
-	width: 100px;
-	height: 25px;
-	background-color: #c2c2c2;
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: black;
 	color: white;
 	font-family: KozGo;
 	font-weight: lighter;
 	font-size: 18px;
 	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.theme_content {
+	color: gray;
+	line-height: 25px;
+	text-indent: 32px;
+	font-family: KozGo;
+}
+
+.theme_name {
+	line-height: 40px;
+	font-family: KozGo;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: black;
+	font-weight: bold;
 }
 /*Bullet Navigator Skin*/
 /* jssor slider bullet navigator skin 05 css */
