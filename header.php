@@ -13,6 +13,7 @@ $(document).ready(function(){
 		$(this).find(".top_category_item").addClass("top_category_item_hover");
 		$(this).find(".category_bar").addClass("category_bar_hover");	
 	  }, function() {
+		$(this).find(".top_category_item").removeClass("top_category_item_hover");
 		$(this).find(".category_bar").removeClass("category_bar_hover");
 	  }
 	);
