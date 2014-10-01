@@ -56,7 +56,6 @@ $(document).ready(function(){
 			<div class="active_list_item">
 				講座
 			</div>
-			<div class="category_bar"></div>
 		</div>
 	</div>
 	<div class="top_category">
