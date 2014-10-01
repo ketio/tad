@@ -25,11 +25,6 @@
 					<img src="img/footer/taipeiculture_gray.png" class="unit_graph" />
 				</a>
 			</div>
-			<div>
-				<a href="http://www.culture.gov.tw">
-					<img src="img/footer/taipeiart_gray.png" class="unit_graph" />
-				</a>
-			</div>
 		</td>
 		<td class="image_cell">
 			<div>
@@ -37,6 +32,11 @@
 					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" />
 				</a>
 			</div>	
+			<div>
+				<a href="http://www.culture.gov.tw">
+					<img src="img/footer/taipeiart_gray.png" class="unit_graph" />
+				</a>
+			</div>
 		</td>
 		<td class="image_cell">
 			
