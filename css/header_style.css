@@ -49,6 +49,10 @@ a:visited {
 	background-color: black;
 }
 
+.active_list_item > a{
+	text-decoration = none;
+}
+
 .category_bar {
 	width: 100px;
 	height: 5px;
