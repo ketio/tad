@@ -49,6 +49,7 @@ $(document).ready(function(){
 				<div class="active_list_item">
 					年度主題展
 				</div>
+			</a>
 			<div class="active_list_item">
 			導覽
 			</div>
