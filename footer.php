@@ -12,34 +12,26 @@
 				執行單位
 			</div>
 		</td>
-		<td class="title_cell">
-			<div class="unit_title">
-				媒體合作
-			</div>		
-		</td>
 	</tr>
 	<tr>
 		<td class="image_cell">
-			<div>
+			<div class="image_block">
 				<a href="http://www.culture.gov.tw">
 					<img src="img/footer/taipeiculture_gray.png" class="unit_graph" />
 				</a>
 			</div>
 		</td>
 		<td class="image_cell">
-			<div>
-				<a href="http://www.aga.org.tw">
-					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" />
-				</a>
-			</div>	
-			<div>
+			<div class="image_block">
 				<a href="http://www.culture.gov.tw">
 					<img src="img/footer/taipeiart_gray.png" class="unit_graph" />
 				</a>
 			</div>
+			<div class="image_block">
+				<a href="http://www.aga.org.tw">
+					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" />
+				</a>
+			</div>	
 		</td>
-		<td class="image_cell">
-			
-		</td>		
 	</tr>
 </table>
