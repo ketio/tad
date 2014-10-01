@@ -7,6 +7,13 @@
 	</head>
 
 	<body>
-		
+		<div id="content_wrapper">
+
+			<!-- header -->
+			<?php 
+				include_once "header.php"; 
+			?>
+			
+		</div>
 	</body>
 </html>

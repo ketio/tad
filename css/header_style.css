@@ -23,6 +23,14 @@ a:visited {
 	z-index: 1;
 }
 
+.active_list > a:link{
+	text-decoration: none;
+}
+
+.active_list > a:visited{
+	text-decoration: none;
+}
+
 #header {
 	margin-top: 20px;
 	width: 1140px;
