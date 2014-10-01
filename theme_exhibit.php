@@ -16,7 +16,7 @@
 
 			<div id="theme_exhibit">
 				<div id="theme_title">
-					「城市精神」戶外攝影展 
+					年度主題展：城市精神 
 				</div>
 				<div id="theme_sub">
 					The Spirit Of Cities 戶外攝影展｜ 策展人：蔡家榛
