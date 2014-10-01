@@ -19,7 +19,7 @@
 					「城市精神」戶外攝影展 
 				</div>
 				<div id="theme_sub">
-					The Spirit Of Cities ｜ 策展人：蔡家榛
+					The Spirit Of Cities 戶外攝影展｜ 策展人：蔡家榛
 				</div>
 				
 			</div>
