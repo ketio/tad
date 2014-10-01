@@ -45,11 +45,11 @@ $(document).ready(function(){
 		<div class="category_bar"></div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
-			<a href="theme_exhibit.php">
-				<div class="active_list_item">
+			<div class="active_list_item">
+				<a href="theme_exhibit.php">
 					年度主題展
-				</div>
-			</a>
+				</a>
+			</div>			
 			<div class="active_list_item">
 			導覽
 			</div>
