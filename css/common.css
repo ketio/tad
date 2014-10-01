@@ -168,6 +168,16 @@
 	margin-bottom: 100px;
 }
 
+.theme_category {
+	width: 100px;
+	height: 25px;
+	background-color: #c2c2c2;
+	color: white;
+	font-family: KozGo;
+	font-weight: lighter;
+	font-size: 18px;
+	margin-top: 50px;
+}
 /*Bullet Navigator Skin*/
 /* jssor slider bullet navigator skin 05 css */
 /*
