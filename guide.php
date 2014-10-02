@@ -103,6 +103,42 @@
 						  —— 水・墨 靳杰強個展（藝境畫廊）＋講座【藝術×居家空間】王正凱先生
 					</div>
 				</div>
+				<div class="guide_enroll">
+					報名去<i class="fa fa-arrow-right"></i>
+				</div>
+				<div class="guide_name">
+					手心裡的藝術乾坤
+				</div>
+				<div class="guide_info">
+					 帶領你五感甦醒，親身感受藝術工匠的工藝美學
+				</div>
+				<div>
+					<div class="guide_date">
+						11／01
+						<br>
+						（六）
+					</div>
+					<div class="guide_line">
+						捷運劍南站 —— 法國雕塑家 VAL 2014 新作與精選展（菲利浦畫廊）—— 采泥藝術 —— 京都一布や－職人手作工房展（餘白藝廊）
+						<br>
+						—— 複調的詩學－楊識宏個展（亞洲藝術）＋講座 【藝術×閱讀×生活】鄭俊德先生（餘白 Yuhaku Gallery）
+					</div>
+				</div>
+				<div>
+					<div class="guide_date">
+						11／09
+						<br>
+						（日）
+					</div>
+					<div class="guide_line">
+						捷運大直站 ——「人・形・雕」日本木雕藝術家聯展（青雲畫廊）—— 複調的詩學－楊識宏個展（亞洲藝術）
+						<br>
+						—— 京都一布や－職人手作工房展（餘白藝廊）＋講座 【藝術×人生】勞維俊先生（亞洲藝術中心）
+					</div>
+					<div class="guide_enroll">
+						報名去<i class="fa fa-arrow-right"></i>
+					</div>
+				</div>
 			</div>
 			
 		</div>
