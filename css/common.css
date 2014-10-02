@@ -146,6 +146,8 @@
 	font: black 14px;
 	text-align: center;
 	line-height: 26px;
+	background-color: black;
+	color: white;
 }
 
 .news_title{
