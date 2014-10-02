@@ -4,6 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title></title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
+	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
     <script>
         $(function () {
@@ -61,6 +62,7 @@
 				<div class="theme_content">
 					大直中山 21 號廣場（北安路與敬業三路間）
 					<a href="">觀看地圖</a>
+					<div id="map_canvas" style="width:50%; height:50%"></div>
 				</div>
 
 				<div class="theme_category">
