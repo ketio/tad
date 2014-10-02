@@ -124,6 +124,7 @@
 	width: 150px;
 	line-height: 26px;
 	display: inline-block;
+	vertical-align: middle;
 }
 
 #subscription_function {
@@ -134,7 +135,6 @@
 	font: #c2c2c2 14px;
 	text-align: center;
 	line-height: 26px;
-	vertical-align: middle;
 }
 
 #subscription_button {
