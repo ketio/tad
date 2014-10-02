@@ -79,6 +79,13 @@
 	display: inline-block;
 }
 
+#guide {
+	margin-top: 100px;
+	width:960px;
+	height: 1000px;
+	margin-left: 90px;
+}
+
 #news_content {
 	width: 610px;
 	height:400px;
@@ -162,6 +169,10 @@
 	margin-left: 25px; 
 }
 
+.arthur_info > div {
+	text-indent: 32px;
+}
+
 .date_news {
 	background-color: #15191f;
 	width: 300px;
@@ -173,6 +184,36 @@
 	color: white;
 	font-family: KozGo;
 	display: inline-block;
+}
+
+.guide_category{
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-family: KozGo;
+	font-weight: lighter;
+	font-size: 18px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.guide_content {
+	color: gray;
+	line-height: 30px;
+	text-indent: 32px;
+	font-family: KozGo;
+}
+.guide_name {
+	line-height: 40px;
+	font-family: KozGo;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: black;
+	font-weight: bold;
 }
 
 .news_title{
