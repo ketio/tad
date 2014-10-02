@@ -86,6 +86,13 @@
 	margin-left: 90px;
 }
 
+#guide_title {
+	color: black;
+	font-family: KozGo;
+	text-align: left;
+	font-size: 28px;
+}
+
 #news_content {
 	width: 610px;
 	height:400px;
@@ -206,14 +213,41 @@
 	text-indent: 32px;
 	font-family: KozGo;
 }
+
+.guide_content > div {
+	text-indent: 32px;
+}
 .guide_name {
 	line-height: 40px;
 	font-family: KozGo;
 	font-size: 18px;
 	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 	color: black;
 	font-weight: bold;
+	text-decoration: underline;
+}
+
+.guide_info {
+	color: black;
+	line-height: 30px;
+	font-family: KozGo;
+}
+
+.guide_date {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-family: KozGo;
+	font-weight: lighter;
+	border: solid black 10px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .news_title{
