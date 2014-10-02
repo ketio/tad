@@ -117,29 +117,35 @@
 #subscription_text {
 	font-size: 24px;
 	font-family: KozGo;
-	text-align: right;
+	text-align: center;
 	margin-right: 10px;
 	color: black;
-	height: 30px;
+	height: 26px;
 	width: 150px;
+	line-height: 26px;
+	margin-left: 175px;
 	display: inline-block;
 }
 
 #subscription_function {
-	height: 30px;
+	height: 26px;
 	width: 400px; 
-	border: 1px solid black;
+	border: 2px solid black;
 	display: inline-block;
 	font: #c2c2c2 14px;
+	text-align: center;
+	line-height: 26px;
 }
 
 #subscription_button {
-	border: 1px solid black;
-	height: 30px;
+	border: 2px solid black;
+	height: 26px;
 	width: 80px;
-	margin-left: 15px
+	margin-left: 15px;
 	display:inline-block;
 	font: black 14px;
+	text-align: center;
+	line-height: 26px;
 }
 
 .news_title{
