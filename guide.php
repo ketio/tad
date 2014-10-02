@@ -139,6 +139,22 @@
 						報名去<i class="fa fa-arrow-right"></i>
 					</div>
 				</div>
+				<div class="guide_category">
+					注意事項
+				</div>
+				<div class="guide_content">
+					<div>
+					集合地點：參照各路線安排
+					</div>
+					<div>
+					費用：免費
+					</div>
+					<div>
+					人數限制：每場 20 人，請從速報名
+					</div>				
+				</div>
+				<div id="footer">
+				</div>
 			</div>
 			
 		</div>
