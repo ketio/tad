@@ -27,7 +27,7 @@ $(document).ready(function(){
 		<a href="/index.php"><img alt="大內藝術節" src="/img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
-		<a href="abouts.php">
+		<a href="/abouts.php">
 			<div class="top_category_item">
 				關於
 				<br>
