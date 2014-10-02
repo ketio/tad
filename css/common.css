@@ -1,8 +1,25 @@
+
+/* common */
+
 @font-face{
 	font-family: "KozGo";
 	src:url('../font/KozGoPro-Regular.otf');
 }
 
+#content_wrapper{
+	position: relative;
+	margin: 0px auto;
+	width: 1140px;
+}
+
+#footer {
+	width: 1140px;
+	height: 100px;
+}
+
+/* common finish*/
+
+/*about page*/
 
 #abouts_figure {
 	display: inline-block;
@@ -33,17 +50,9 @@
 	text-indent: 30px;
 }
 
+/* about page finish */
 
-#content_wrapper{
-	position: relative;
-	margin: 0px auto;
-	width: 1140px;
-}
-
-#footer {
-	width: 1140px;
-	height: 100px;
-}
+/* index page */
 
 #facebook_content {
 	width: 480px;
@@ -79,20 +88,6 @@
 	width: 300px;
 	margin-right: 200px;
 	display: inline-block;
-}
-
-#guide {
-	margin-top: 100px;
-	width:1000px;
-	height: 1000px;
-	margin-left: 70px;
-}
-
-#guide_title {
-	color: black;
-	font-family: KozGo;
-	text-align: left;
-	font-size: 28px;
 }
 
 #news_content {
@@ -136,27 +131,36 @@
 	background-color: gray;
 	display: inline-block;
 }
-
-#theme_exhibit {
-	margin-top: 100px;
-	width:960px;
-	height: 1000px;
-	margin-left: 90px;
+.news_title{
+	font-family: KozGo;
+	color: #15191f;
+	font-size: 48px;
 }
 
-#theme_title {
+.subscription {
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 190px;
+	margin-right: 190px;
+	margin-bottom: 100px;
+}
+
+/* index page finish*/
+
+/* guide page */
+
+#guide {
+	margin-top: 100px;
+	width:1000px;
+	height: 1000px;
+	margin-left: 70px;
+}
+
+#guide_title {
 	color: black;
 	font-family: KozGo;
 	text-align: left;
 	font-size: 28px;
-}
-
-#theme_sub {
-	color: black;
-	font-family: KozGo;
-	text-align: left;
-	font-size: 16px;
-	font-weight: lighter;
 }
 
 .three_lines {
@@ -164,42 +168,6 @@
 	margin-left: 10px;
 	color: gray;
 	font-size: 14px;
-	font-family: KozGo;
-	display: inline-block;
-}
-
-.arthur {
-	display: inline-block;
-}
-
-.arthur_photo {
-	width: 200px;
-	display: inline-block;
-}
-
-.arthur_info {
-	display: inline-block;
-	color: gray;
-	line-height: 30px;
-	font-family: KozGo;
-	font-size: 14px;
-	width: 730px;
-	margin-left: 25px; 
-}
-
-.arthur_info > div {
-	text-indent: 28px;
-}
-
-.date_news {
-	background-color: #15191f;
-	width: 300px;
-	height: 50px;
-}
-
-.date_news > div{
-	font-size: 24px;
-	color: white;
 	font-family: KozGo;
 	display: inline-block;
 }
@@ -281,19 +249,58 @@
 	margin-left: 860px;
 }
 
-.news_title{
-	font-family: KozGo;
-	color: #15191f;
-	font-size: 48px;
+
+/*guide page finish */
+
+
+/* theme page */
+
+#theme_exhibit {
+	margin-top: 100px;
+	width:960px;
+	height: 1000px;
+	margin-left: 90px;
 }
 
-.subscription {
-	display: inline-block;
-	margin-top: 50px;
-	margin-left: 190px;
-	margin-right: 190px;
-	margin-bottom: 100px;
+#theme_title {
+	color: black;
+	font-family: KozGo;
+	text-align: left;
+	font-size: 28px;
 }
+
+#theme_sub {
+	color: black;
+	font-family: KozGo;
+	text-align: left;
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+
+.arthur {
+	display: inline-block;
+}
+
+.arthur_photo {
+	width: 200px;
+	display: inline-block;
+}
+
+.arthur_info {
+	display: inline-block;
+	color: gray;
+	line-height: 30px;
+	font-family: KozGo;
+	font-size: 14px;
+	width: 730px;
+	margin-left: 25px; 
+}
+
+.arthur_info > div {
+	text-indent: 28px;
+}
+
 
 .theme_category {
 	width: 150px;
@@ -341,6 +348,25 @@
 	color: black;
 	font-weight: bold;
 }
+
+/* theme page finish*/
+
+/* news page */
+
+.date_news {
+	background-color: #15191f;
+	width: 300px;
+	height: 50px;
+}
+
+.date_news > div{
+	font-size: 24px;
+	color: white;
+	font-family: KozGo;
+	display: inline-block;
+}
+
+/* news page finish */
 /*Bullet Navigator Skin*/
 /* jssor slider bullet navigator skin 05 css */
 /*
