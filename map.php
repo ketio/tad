@@ -169,27 +169,27 @@
 						</div>							
 					</div>
 					<div id="gallery">
-						<div id="gallery_info_1" data="1" class="info_item">采泥藝術</div>
-						<div id="gallery_info_2" data="2" class="info_item">餘白藝廊</div>
-						<div id="gallery_info_3" data="3" class="info_item">菲利浦畫廊</div>
-						<div id="gallery_info_4" data="4" class="info_item">青雲畫廊</div>
-						<div id="gallery_info_5" data="5" class="info_item">亞洲藝術中心</div>
-						<div id="gallery_info_6" data="6" class="info_item">藝術計畫</div>
-						<div id="gallery_info_7" data="7" class="info_item">秋刀魚藝術中心</div>
-						<div id="gallery_info_8" data="8" class="info_item">耿畫廊</div>
-						<div id="gallery_info_9" data="9" class="info_item">TKG+</div>
-						<div id="gallery_info_10" data="10" class="info_item">TKG+ Projects</div>
-						<div id="gallery_info_11" data="11" class="info_item">旻谷藝術</div>
-						<div id="gallery_info_12" data="12" class="info_item">威廉藝術沙龍</div>
-						<div id="gallery_info_13" data="13" class="info_item">學學白色空間</div>
-						<div id="gallery_info_14" data="14" class="info_item">學學原色空間</div>
-						<div id="gallery_info_15" data="15" class="info_item">愛力根畫廊</div>
-						<div id="gallery_info_16" data="16" class="info_item">尊彩藝術中心</div>
-						<div id="gallery_info_17" data="17" class="info_item">藝星藝術中心</div>
-						<div id="gallery_info_18" data="18" class="info_item">台灣工銀藝文空間</div>
-						<div id="gallery_info_19" data="19" class="info_item">沁德居藝廊</div>
-						<div id="gallery_info_20" data="20" class="info_item">哥德藝術中心</div>
-						<div id="gallery_info_21" data="21" class="info_item">名典畫廊</div>
+						<div id="gallery_info_1" data="1" class="info_item"><div class="info_item_number">1</div>采泥藝術</div>
+						<div id="gallery_info_2" data="2" class="info_item"><div class="info_item_number">2</div>餘白藝廊</div>
+						<div id="gallery_info_3" data="3" class="info_item"><div class="info_item_number">3</div>菲利浦畫廊</div>
+						<div id="gallery_info_4" data="4" class="info_item"><div class="info_item_number">4</div>青雲畫廊</div>
+						<div id="gallery_info_5" data="5" class="info_item"><div class="info_item_number">5</div>亞洲藝術中心</div>
+						<div id="gallery_info_6" data="6" class="info_item"><div class="info_item_number">6</div>藝術計畫</div>
+						<div id="gallery_info_7" data="7" class="info_item"><div class="info_item_number">7</div>秋刀魚藝術中心</div>
+						<div id="gallery_info_8" data="8" class="info_item"><div class="info_item_number">8</div>耿畫廊</div>
+						<div id="gallery_info_9" data="9" class="info_item"><div class="info_item_number">9</div>TKG+</div>
+						<div id="gallery_info_10" data="10" class="info_item"><div class="info_item_number">10</div>TKG+ Projects</div>
+						<div id="gallery_info_11" data="11" class="info_item"><div class="info_item_number">11</div>旻谷藝術</div>
+						<div id="gallery_info_12" data="12" class="info_item"><div class="info_item_number">12</div>威廉藝術沙龍</div>
+						<div id="gallery_info_13" data="13" class="info_item"><div class="info_item_number">13</div>學學白色空間</div>
+						<div id="gallery_info_14" data="14" class="info_item"><div class="info_item_number">14</div>學學原色空間</div>
+						<div id="gallery_info_15" data="15" class="info_item"><div class="info_item_number">15</div>愛力根畫廊</div>
+						<div id="gallery_info_16" data="16" class="info_item"><div class="info_item_number">16</div>尊彩藝術中心</div>
+						<div id="gallery_info_17" data="17" class="info_item"><div class="info_item_number">17</div>藝星藝術中心</div>
+						<div id="gallery_info_18" data="18" class="info_item"><div class="info_item_number">18</div>台灣工銀藝文空間</div>
+						<div id="gallery_info_19" data="19" class="info_item"><div class="info_item_number">19</div>沁德居藝廊</div>
+						<div id="gallery_info_20" data="20" class="info_item"><div class="info_item_number">20</div>哥德藝術中心</div>
+						<div id="gallery_info_21" data="21" class="info_item"><div class="info_item_number">21</div>名典畫廊</div>
 					</div>
 					<div id="restaurant">
 					

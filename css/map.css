@@ -142,6 +142,20 @@
 .info_item_chosen{
 	color:blue;
 }
+.info_item_number{
+	height:16px;
+	width:16px;
+	color:white;
+	background:black;
+	border:1px solid black;
+	border-radius:50%;
+	display:inline-block;
+	vertical-align:middle;
+	text-align:center;
+	line-height:16px;
+	margin-right:2px;
+	font-size:10pt;
+}
 #map{
 	position:relative;
 	width:800px;
