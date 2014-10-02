@@ -159,7 +159,7 @@
 								2014／07／30
 							</div>
 							<div class="news_press">
-								學學文創
+								學學文創台北大內藝術區成立
 							</div>
 						</div>
 						
@@ -177,7 +177,10 @@
 					SUBSCRIBE
 				</div>
 				<div id="subscription_function">
-					
+					提供電子信箱，我們將以電子報告訴您最新消息！
+				</div>
+				<div id="subscription_button">
+					提交
 				</div>
 			</div>
 			
