@@ -155,6 +155,9 @@
 	font-weight: lighter;
 }
 
+#three_lines > .guide_line {
+	line-height: 20px !important;
+}
 .arthur {
 	display: inline-block;
 }
