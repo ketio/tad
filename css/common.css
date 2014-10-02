@@ -225,7 +225,6 @@
 	margin-bottom: 10px;
 	color: black;
 	font-weight: bold;
-	text-decoration: underline;
 }
 
 .guide_info {
@@ -235,6 +234,7 @@
 }
 
 .guide_date {
+	display: inline-block;
 	border-radius: 50%;
 	width: 50px;
 	height: 50px;
@@ -248,6 +248,15 @@
 	line-height: 25px;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+.guide_line {
+	margin-left: 10px;
+	color: gray;
+	font-size: 16px;
+	line-height: 25px;
+	font-family: KozGo;
+	display: inline-block;
 }
 
 .news_title{
