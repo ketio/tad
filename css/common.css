@@ -155,9 +155,15 @@
 	font-weight: lighter;
 }
 
-#three_lines > .guide_line {
-	line-height: 20px !important;
+.three_lines {
+	line-height: 20px;
+	margin-left: 10px;
+	color: gray;
+	font-size: 14px;
+	font-family: KozGo;
+	display: inline-block;
 }
+
 .arthur {
 	display: inline-block;
 }
