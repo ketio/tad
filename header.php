@@ -1,4 +1,4 @@
-<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
 
 <script>
 $(document).ready(function(){
@@ -21,10 +21,10 @@ $(document).ready(function(){
 });
 </script>
 
-<link type="text/css" rel="stylesheet" href="css/header_style.css"/>
+<link type="text/css" rel="stylesheet" href="/css/header_style.css"/>
 <div id="header">
 	<div id="logo">
-		<a href="index.php"><img src="img/Web_logo.png" height="100"></a>
+		<a href="index.php"><img src="/img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
 		<a href="abouts.php">

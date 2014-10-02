@@ -12,11 +12,6 @@
 		<!-- header -->
 		<?php 
 			include_once "header.php"; 
-			
-			$newsNo=$_GET["newsNo"];
-			
-			include_once "news/".$newsNo.".php";
-		
 		?>
 		
 	</body>
