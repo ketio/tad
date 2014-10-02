@@ -292,7 +292,7 @@
 	font-family: KozGo;
 	font-weight: lighter;
 	font-size: 18px;
-	margin-top: 50px;
+	margin-top: 25px;
 	margin-bottom: 25px;
 }
 
@@ -303,13 +303,19 @@
 	font-family: KozGo;
 }
 
-.theme_content > a {
+.theme_content > div {
 	font-size: 16px;
 	background-color: rgb(247,147,30);
 	color:white;
 	width:100px;
 	height: 30px;
 	text-align: center;
+	display: inline-block;
+}
+
+.theme_content > a {
+	text-decoration: none;
+	color: white;
 }
 
 .theme_name {
