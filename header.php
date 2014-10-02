@@ -1,4 +1,5 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+
 <script>
 $(document).ready(function(){
 	$("#activities").mouseover(function(){
