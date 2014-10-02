@@ -24,7 +24,7 @@ $(document).ready(function(){
 <link type="text/css" rel="stylesheet" href="/css/header_style.css"/>
 <div id="header">
 	<div id="logo">
-		<a href="index.php"><img src="/img/Web_logo.png" height="100"></a>
+		<a href="/index.php"><img src="/img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
 		<a href="abouts.php">
@@ -37,7 +37,7 @@ $(document).ready(function(){
 		</a>
 	</div>
 	<div class="top_category">
-		<a href="map.php">
+		<a href="/map.php">
 			<div class="top_category_item">
 				TAD 地圖
 				<br>
@@ -55,17 +55,17 @@ $(document).ready(function(){
 		<div class="category_bar"></div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
-			<a href="theme_exhibit.php">
+			<a href="/theme_exhibit.php">
 				<div class="active_list_item">
 					年度主題展
 				</div>
 			</a>
-			<a href="guide.php">
+			<a href="/guide.php">
 				<div class="active_list_item">
 				導覽
 				</div>
 			</a>
-			<a href="workshop.php">
+			<a href="/workshop.php">
 				<div class="active_list_item">
 					講座
 				</div>
