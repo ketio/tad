@@ -30,7 +30,7 @@ $(document).ready(function(){
 			<div class="top_category_item">
 				關於
 				<br>
-				ABOUTS
+				ABOUT
 			</div>
 			<div class="category_bar"></div>
 		</a>

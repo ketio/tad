@@ -4,6 +4,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title></title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 	</head>
 
 	<body>
@@ -64,6 +66,27 @@
 						捷運西湖站 —— 假象的輪廓：彭泓智＆金基羅雙個展（藝術計畫）—— 美術史的榮耀與經典（沁德居畫廊）
 						<br>
 						—— 常態展（旻谷藝術／哥德藝術中心）—— 2014 亞洲不安之旅（秋刀魚藝術中心）＋講座【70，80 年代藝術家】鄭乃銘先生
+					</div>
+				</div>
+				<div class="guide_enroll">
+					報名去<i class="fa fa-arrow-right"></i>
+				</div>
+				<div class="guide_name">
+					大尋寶家
+				</div>
+				<div class="guide_info">
+					 從展覽看見世界地理的藝術風景 
+				</div>
+				<div>
+					<div class="guide_date">
+						10／26
+						<br>
+						（日）
+					</div>
+					<div class="guide_line">
+						捷運西湖站集合 —— 大都−王懷慶個展（耿畫廊）—— 世界名畫典藏展（愛力根畫廊）——「抽象．符碼．東方情」──臺灣現代藝術巨匠大展(尊彩藝術中心)---凝視須臾—宜德思．盧信與琵亞‧維仕坦伯格對話展(學學原色空間)+講座【藝術x時尚】盧淑芬小姐
+						<br>
+						
 					</div>
 				</div>
 			</div>
