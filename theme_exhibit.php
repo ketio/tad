@@ -61,8 +61,12 @@
 				</div>
 				<div class="theme_content">
 					大直中山 21 號廣場（北安路與敬業三路間）
+<<<<<<< HEAD
 					<a href="">觀看地圖</a>
 					<div id="map_canvas" style="width:50%; height:50%"></div>
+=======
+					<a href="">GOOGLE MAP</a>
+>>>>>>> origin/master
 				</div>
 
 				<div class="theme_category">
