@@ -4,6 +4,8 @@
 		url('../font/KozGoPro-ExtraLight.otf'), url('../font/KozGoPro-Light.otf'),
 		url('../font/KozGoPro-Heavy.otf'), url('../font/KozGoPro-Medium.otf');
 }
+
+
 #abouts_figure {
 	display: inline-block;
 	margin-top: 100px;
@@ -154,7 +156,6 @@
 	display: inline-block;
 	color: gray;
 	line-height: 30px;
-	text-indent: 32px;
 	font-family: KozGo;
 	font-size: 16px;
 	width: 730px;
