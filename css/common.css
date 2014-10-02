@@ -182,13 +182,13 @@
 	color: gray;
 	line-height: 30px;
 	font-family: KozGo;
-	font-size: 16px;
+	font-size: 14px;
 	width: 730px;
 	margin-left: 25px; 
 }
 
 .arthur_info > div {
-	text-indent: 32px;
+	text-indent: 28px;
 }
 
 .date_news {
