@@ -153,7 +153,17 @@
 			</div>
 			<div>
 				<div id="news_content">
-
+					<div class="news_list">
+						<div>
+							<div class="news_date">
+								2014／07／30
+							</div>
+							<div class="news_press">
+								學學文創
+							</div>
+						</div>
+						
+					</div>
 				</div>
 				<div id="facebook_content">
 					<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ftadfestival&amp;width&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:480px;height:400px;background:white" allowTransparency="true"></iframe>
