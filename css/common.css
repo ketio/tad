@@ -94,7 +94,6 @@
 	width: 610px;
 	height:400px;
 	margin-top: 50px;
-	background-color: gray;
 	margin-right: 30px;
 	display: inline-block;
 }
@@ -151,6 +150,7 @@
 }
 
 .news_date {
+	display: inline-block;
 	width: 150px;
 	font-size: 16px;
 	height: 25px;
@@ -159,13 +159,17 @@
 	color: white;
 	background-color: black;
 	margin-right: 15px;
+	margin-left: 15px;
+	font-family: KozGo;
 }
 
 .news_press {
+	display: inline-block;
 	font-size: 16px;
 	color: black;
 	height: 25px;
 	line-height: 25px;
+	font-family: KozGo;
 }
 
 /* index page finish*/
