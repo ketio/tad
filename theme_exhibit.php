@@ -4,29 +4,6 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title></title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
-	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-    <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
-    <script>
-        $(function () {
-            //定義經緯度位置: 以政大校園的八角亭為例
-            var latlng = new google.maps.LatLng(24.985505, 121.57531);
-            //設定地圖參數
-            var mapOptions = {
-                zoom: 16, //初始放大倍數
-                center: latlng, //中心點所在位置
-                mapTypeId: google.maps.MapTypeId.ROADMAP //正常2D道路模式
-            };
-            //在指定DOM元素中嵌入地圖
-            var map = new google.maps.Map(
-                document.getElementById("map_canvas"), mapOptions);
-            //加入標示點(Marker)
-            var marker = new google.maps.Marker({
-                position: latlng, //經緯度
-                title: "八角亭", //顯示文字
-                map: map //指定要放置的地圖對象
-            });
-        });
-	</script>
 	</head>
 
 	<body>
@@ -61,16 +38,7 @@
 				</div>
 				<div class="theme_content">
 					大直中山 21 號廣場（北安路與敬業三路間）
-<<<<<<< HEAD
 					<div><a href="">GOOGLE MAP</a></div>
-=======
-<<<<<<< HEAD
-					<a href="">觀看地圖</a>
-					<div id="map_canvas" style="width:50%; height:50%"></div>
-=======
-					<a href="">GOOGLE MAP</a>
->>>>>>> origin/master
->>>>>>> FETCH_HEAD
 				</div>
 
 				<div class="theme_category">
