@@ -62,12 +62,12 @@ $(document).ready(function(){
 			</a>
 			<a href="/guide.php">
 				<div class="active_list_item">
-				導覽
+				藝術導覽
 				</div>
 			</a>
 			<a href="/workshop.php">
 				<div class="active_list_item">
-					講座
+					大內講堂
 				</div>
 			</a>
 		</div>

@@ -205,17 +205,56 @@
 								2014／07／30
 							</div>
 							<div class="news_press">
-								學學文創台北大內藝術區成立
+								學學文創：台北大內藝術區成立
 							</div>
 						</div>
-						
+							<div class="news_content">
+								「藝術」－是台北市重要的城市風景
+								<br>
+								來過台灣的遊客，都感同身受：台灣最美的風景是「人」。而遊歷台北市之後，無不讚嘆台北都會散發的人文氣質、整潔有序、以及美食的多樣性。
+							</div>
+							<div class="news_more">
+								<a href="/news/2014-7-30.php"> more 〉</a>
+							</div>
+					</div>
+					
+					<div class="news_list">
+						<div>
+							<div class="news_date">
+								2014／07／31
+							</div>
+							<div class="news_press">
+								中國時報：打造大內藝術區 讓畫廊成街景
+							</div>
+						</div>
+						<div class="news_content">
+								「打出「藝術造街」構想，中華民國畫廊協會推動「台北大內藝術區」，昨（30 日）宣告成立，匯集台北市大直、內湖地區的畫廊與藝術空間，目前共有 18 個單位、21 個空間坐落在這片新興區塊，未來將共推展覽，並於每年台北國際⋯⋯
+						</div>
+						<div class="news_more">
+								<a href="/news/2014-7-31.php"> more 〉</a>
+						</div>
+					</div>
+					<div class="news_list">
+						<div>
+							<div class="news_date">
+								2014／07／31
+							</div>
+							<div class="news_press">
+								中國時報：台北大內藝術區成立 畫廊密度居全台之冠
+							</div>
+						</div>
+							<div class="news_content">
+								看好大直與內湖地區廠辦空間大、租金相對便宜，與當地科技業、豪宅戶購藏藝術品的潛力，已有累積超過 20 家的畫廊和藝文空間進駐，全台密度最高，昨（30）日這些業者進一步宣布成立「台北大內藝術區」⋯⋯
+							</div>
+							<div class="news_more">
+								<a href="/news/2014-7-31-2.php"> more 〉</a>
+							</div>	
 					</div>
 				</div>
 				<div id="facebook_content">
 					<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ftadfestival&amp;width&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:480px;height:400px;background:white" allowTransparency="true"></iframe>
 				</div>
 			</div>
-
 			<!-- subscribe function -->
 
 			<div class="subscription">

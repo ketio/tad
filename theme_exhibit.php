@@ -21,6 +21,9 @@
 				<div id="theme_sub">
 					戶外攝影展 ｜ 策展人：蔡家榛
 				</div>
+				<div id="theme_banner">
+					<img src="img/slider/slider2.png" width="960">
+				</div>
 				<div class="theme_category">
 					攝影展序言
 				</div>
