@@ -69,7 +69,9 @@
 					</div>
 				</div>
 				<div class="guide_enroll">
-					報名去<i class="fa fa-arrow-right"></i>
+					<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform">
+						報名去<i class="fa fa-arrow-right"></i>
+					</a>
 				</div>
 				<div class="guide_name">
 					大尋寶家
@@ -104,7 +106,9 @@
 					</div>
 				</div>
 				<div class="guide_enroll">
-					報名去<i class="fa fa-arrow-right"></i>
+					<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform">
+						報名去<i class="fa fa-arrow-right"></i>
+					</a>
 				</div>
 				<div class="guide_name">
 					手心裡的藝術乾坤
@@ -136,7 +140,9 @@
 						—— 京都一布や－職人手作工房展（餘白藝廊）＋講座 【藝術×人生】勞維俊先生（亞洲藝術中心）
 					</div>
 					<div class="guide_enroll">
-						報名去<i class="fa fa-arrow-right"></i>
+						<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform">
+							報名去<i class="fa fa-arrow-right"></i>
+						</a>
 					</div>
 				</div>
 				<div class="guide_category">
