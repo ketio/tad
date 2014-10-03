@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title></title>
+	<title>大內藝術季</title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
 	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 	<script type="text/javascript" src="js/jssor.core.js"></script>
