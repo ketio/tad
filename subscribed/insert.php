@@ -1,20 +1,19 @@
 <?php
-$name=$_GET["name"];
-$email=$_GET["email"];
+	$email=$_GET["email"];
 
-	$mysqli = new mysqli('localhostt', 'tadfesti_liang', 'zaqwedcxsgengyu81', 'tadfesti_tad');
+	$mysqli = new mysqli('localhost', 'tadfesti_liang', 'zaqwedcxsgengyu81', 'tadfesti_tad');
 
 	if(mysqli_connect_errno()){echo "error~";}
 	
 	mysqli_query($mysqli, 'SET CHARACTER SET utf8');
 	//mysqli_query($mysqli, "SET Collation_connection = 'utf8_general_ci'");
 	
-	$query="INSERT INTO `subscribed`(`name`, `email`) VALUES (?,?)";
+	$query="INSERT INTO `subscribed`(`email`) VALUES (?)";
 	
 	$stmt = mysqli_prepare($mysqli, $query);
 
     /* bind parameters for markers */
-    mysqli_stmt_bind_param($stmt, "ss", $name,$email);
+    mysqli_stmt_bind_param($stmt, "s", $email);
 
     /* execute query */
     mysqli_stmt_execute($stmt);
@@ -30,5 +29,6 @@ $email=$_GET["email"];
     /* close statement */
     mysqli_stmt_close($stmt);
 	
+	echo "SUCCESS";
 
 ?>

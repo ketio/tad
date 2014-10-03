@@ -2,14 +2,15 @@
 <html>
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>大內藝術季</title>
+	<title>大內藝術節</title>
+	<meta name="keywords" content="大內,大內藝術區,藝術節,TAD" /> 
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
 	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 	<script type="text/javascript" src="js/jssor.core.js"></script>
 	<script type="text/javascript" src="js/jssor.utils.js"></script>
 	<script type="text/javascript" src="js/jssor.slider.js"></script>
 	<script>
-		jQuery(document).ready(function ($) {
+		$(document).ready(function () {
 
 			var _SlideshowTransitions = [
 			//Fade
@@ -81,7 +82,52 @@
 			//    $(window).bind("orientationchange", ScaleSlider);
 			//}
 			//responsive code end
+			
+			$("#subscription_function").focus(function(){
+				if($(this).val()=="提供電子信箱，我們將以電子報告訴您最新消息！"){
+					$(this).val("");
+				}
+			});
+			$("#subscription_function").blur(function(){
+				
+				if($(this).val()==""){
+					$(this).val("提供電子信箱，我們將以電子報告訴您最新消息！");
+				}
+			});
+			$("#subscription_button").click(function(){
+				if($("#subscription_function").val()=="提供電子信箱，我們將以電子報告訴您最新消息！"){
+					alert("提供電子信箱，我們將以電子報告訴您最新消息！");
+				}
+				else if(!isEmail($("#subscription_function").val())){
+					alert("請輸入正確的E-mail格式！");
+				}
+				else{
+					$.ajax({
+						async:true,
+						type:"GET",
+						url:"subscribed/insert.php",
+						data:{
+							email:$("#subscription_function").val(),
+						},
+						cache:false,
+						success:function(response){
+							if(response=="SUCCESS"){
+								alert("訂閱成功!");
+							}
+						}
+					});
+				}
+			
+			});
+			
+			
+			
+			
 		});
+		function isEmail(strEmail) {
+			if (strEmail.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1)
+			return true;
+		}
 	</script>	
 	</head>
 
@@ -176,9 +222,7 @@
 				<div id="subscription_text">
 					SUBSCRIBE
 				</div>
-				<div id="subscription_function">
-					提供電子信箱，我們將以電子報告訴您最新消息！
-				</div>
+				<input id="subscription_function" type="text" name="fname" value="提供電子信箱，我們將以電子報告訴您最新消息！">
 				<div id="subscription_button">
 					提交
 				</div>

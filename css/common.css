@@ -148,6 +148,7 @@
 	line-height: 26px;
 	background-color: black;
 	color: white;
+	cursor:pointer;
 }
 
 .news_title{

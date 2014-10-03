@@ -6,7 +6,7 @@
 	mysqli_query($mysqli, 'SET CHARACTER SET utf8');
 	//mysqli_query($mysqli, "SET Collation_connection = 'utf8_general_ci'");
 	
-	$query="select name, email from subscribed";
+	$query="select email from subscribed group by email";
 	
 	$stmt = mysqli_prepare($mysqli, $query);
 
@@ -17,11 +17,11 @@
     mysqli_stmt_execute($stmt);
 
     /* bind result variables */
-    mysqli_stmt_bind_result($stmt, $name,$email);
+    mysqli_stmt_bind_result($stmt, $email);
 
     /* fetch value */
     while(mysqli_stmt_fetch($stmt)){
-		echo $name.$email;
+		echo $email."</br>";
 	}
 
     //printf("%s is in district %s\n", $city, $district);
@@ -32,22 +32,6 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script>
 $(document).ready(function(){
-	$("#submit_b").click(function(){
-		$.ajax({
-			async:true,
-			type:"GET",
-			url:"subscribed/insert.php",
-			data:{
-				name:$( "input[name$='name']" ).val(),
-				email:$( "input[name$='email']" ).val(),
-			},
-			cache:false,
-			success:function(response){
-			
-				alert(response);
-			}
-		});
-	
-	});
+
 });
 </script>
