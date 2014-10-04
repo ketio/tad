@@ -24,7 +24,7 @@ $(document).ready(function(){
 <link type="text/css" rel="stylesheet" href="/css/header_style.css"/>
 <div id="header">
 	<div id="logo">
-		<a href="/index.php"><img src="/img/Web_logo.png" height="100"></a>
+		<a href="/index.php"><img alt="大內藝術節" src="/img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
 		<a href="abouts.php">
