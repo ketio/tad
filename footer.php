@@ -17,19 +17,19 @@
 		<td class="image_cell">
 			<div class="image_block">
 				<a href="http://www.culture.gov.tw">
-					<img src="img/footer/taipeiculture_gray.png" class="unit_graph" />
+					<img src="img/footer/taipeiculture_gray.png" class="unit_graph" height="50"/>
 				</a>
 			</div>
 		</td>
 		<td class="image_cell">
 			<div class="image_block">
 				<a href="http://www.culture.gov.tw">
-					<img src="img/footer/taipeiart_gray.png" class="unit_graph" />
+					<img src="img/footer/taipeiart_gray.png" class="unit_graph" height="50" />
 				</a>
 			</div>
 			<div class="image_block">
 				<a href="http://www.aga.org.tw">
-					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" />
+					<img src="img/footer/taiwanatrgallery_gray.png" class="unit_graph" height="50"/>
 				</a>
 			</div>	
 		</td>

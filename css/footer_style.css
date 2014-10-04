@@ -10,15 +10,11 @@
 	display: inline-block;
 }
 
-.unit_graph {
-	width: 250px;
-	margin-right: 20px;
-}
-
 .image_cell{
 	vertical-align:top;
 }
 .image_block{
+	margin-top: 10px;
 	display: inline-block;
 	vertical-align:top;
 }
