@@ -51,8 +51,14 @@
 /* about page finish */
 
 /* index page */
-
+#content_inteface{
+	position:relative;
+	width:1140px;
+	height:425px;
+}
 #facebook_content {
+	position:absolute;
+	right:0px;
 	width: 480px;
 	height: 400px;
 	margin-top: 20px;
@@ -61,6 +67,8 @@
 }
 
 #facebook_title{
+	position:absolute;
+	right:0px;
 	border-bottom-width: 2px;
 	border-bottom-color: gray;
 	border-bottom-style: solid;
@@ -69,11 +77,9 @@
 	text-align: center;
 	width: 480px;
 	height: 40px;
-	margin-top: 50px;
 	font-size: 24px;
 	display: inline-block;
 }
-
 
 #index_slideshow {
 	width: 1140px;
@@ -91,7 +97,6 @@
 	width: 600px;
 	height:400px;
 	margin-top: 20px;
-	margin-right: 30px;
 	display: inline-block;
 	vertical-align: top;
 }
@@ -104,10 +109,8 @@
 	color: black;
 	text-align: center;
 	width: 610px;
-	margin-right: 30px;
 	font-size: 24px;
 	height: 40px;
-	margin-top: 30px;
 	display: inline-block;
 }
 
@@ -147,7 +150,12 @@
 	color: white;
 	cursor:pointer;
 }
-
+#title_interface{
+	position:relative;
+	width:1140px;
+	height:40px;
+	margin-top:50px;
+}
 .news_title{
 	font-family: KozGo;
 	color: #15191f;

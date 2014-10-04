@@ -189,7 +189,7 @@
 
 			<!-- facebook & news linl function -->
 
-			<div>
+			<div id="title_interface">
 				<div id="news_title">
 					NEWS
 				</div>
@@ -197,7 +197,7 @@
 					FACEBOOK
 				</div>
 			</div>
-			<div>
+			<div id="content_inteface">
 				<div id="news_content">
 					<div class="news_list">
 						<div>
