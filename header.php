@@ -73,14 +73,14 @@ $(document).ready(function(){
 		</div>
 	</div>
 	<div class="top_category">
-		<div class="top_category_item">
-			<a href="/news.php">
+		<a href="/news.php">
+			<div class="top_category_item">
 				媒體報導
 				<br>
 				ARTICLES
-			</a>
-		</div>
-		<div class="category_bar"></div>
+			</div>
+			<div class="category_bar"></div>
+		</a>
 	</div>
 </div>
 
