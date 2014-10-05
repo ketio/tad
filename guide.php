@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title></title>
+	<title>大內藝術節｜藝術導覽</title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -51,9 +51,9 @@
 						（六）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 假象的輪廓：彭泓智＆金基羅雙個展（藝術計畫）—— 美術史的榮耀與經典（沁德居畫廊）—— 常態展（旻谷藝術
+						捷運西湖站 —— 假象的輪廓：彭泓智＆金基羅雙個展（<a href="http://tw.myblog.yahoo.com/chinderjyugallery">藝術計畫</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery">沁德居畫廊</a>）—— 常態展（<a href="http://www.goethe-ming.com">旻谷藝術</a>
 						<br>
-						／哥德藝術中心）—— 2014 亞洲不安之旅（秋刀魚藝術中心）＋講座【70，80 年代藝術家】鄭乃銘先生（秋刀魚藝術中心）
+						／<a href="http://www.goethe-ming.com">哥德藝術中心</a>）—— 2014 亞洲不安之旅（<a href="www.fishart.com.tw">秋刀魚藝術中心</a>）＋講座【70，80 年代藝術家】鄭乃銘先生（<a href="www.fishart.com.tw">秋刀魚藝術中心</a>）
 					</div>
 				</div>
 				<div>
@@ -63,9 +63,9 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 嘉年華（威廉藝術沙龍）—— 美術史的榮耀與經典（沁德居畫廊）—— 2014 亞洲不安之旅
+						捷運西湖站 —— 嘉年華（<a href="http://www.williamartsalon.com/">威廉藝術沙龍</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery">沁德居畫廊</a>）—— 2014 亞洲不安之旅
 						<br>
-						（秋刀魚藝術中心）—— 常態展（旻谷藝術／哥德藝術中心）＋講座【藝術×典藏投資】陸潔民先生（旻谷藝術）
+						（<a href="www.fishart.com.tw">秋刀魚藝術中心</a>）—— 常態展（<a href="http://www.goethe-ming.com">旻谷藝術</a>／<a href="http://www.goethe-ming.com">哥德藝術中心</a>）＋講座【藝術×典藏投資】陸潔民先生（<a href="http://www.goethe-ming.com">旻谷藝術</a>）
 					</div>
 				</div>
 				<div class="guide_enroll">
