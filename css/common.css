@@ -439,18 +439,74 @@
 /* theme page finish*/
 
 /* news page */
-
-.date_news {
-	background-color: #15191f;
-	width: 300px;
-	height: 50px;
+#content_news{
+	width:960px;
+	height: 800px;
+	margin-left: 90px;
+	margin-top: 100px;
 }
 
-.date_news > div{
-	font-size: 24px;
-	color: white;
-	font-family: KozGo;
+.list_news{
+	height: 120px;
+	width: 960px;
+	border-bottom: 1px solid #c2c2c2;
+	margin-bottom: 10px; 
+	padding-bottom: 10px;
+}
+
+.date_news {
 	display: inline-block;
+	width: 200px;
+	font-size: 18px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: white;
+	background-color: black;
+	margin-right: 20px;
+	margin-left: 15px;
+	font-family: KozGo;
+}
+
+.press_news {
+	display: inline-block;
+	font-size: 18px;
+	color: black;
+	height: 30px;
+	line-height: 30px;
+	font-family: KozGo;
+}
+
+.more_news {
+	display: inline-block;
+	font-size: 16px;
+	color: black;
+	height: 25px;
+	line-height: 25px;
+	font-family: KozGo;
+	margin-left: 880px;
+}
+
+.more_news > a:link{
+	color:black;
+}
+
+.more_news >a:visited{
+	color:black;
+}
+
+.more_news >a:hover{
+	font-weight: bold;
+}
+
+.content_news {
+	margin-top: 10px;
+	margin-left: 20px;
+	color: gray;
+	font-size: 14px;
+	line-height: 20px;
+	width: 960px;
+	font-family: KozGo;
 }
 
 /* news page finish */

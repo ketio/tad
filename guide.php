@@ -18,7 +18,7 @@
 
 			<div id="guide">
 				<div id="guide_title">
-					藝術導覽  Guide
+					藝術導覽  Art Exhibition Guided Tours
 				</div>
 				<div class="guide_category">
 					簡介
