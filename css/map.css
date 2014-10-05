@@ -95,8 +95,8 @@
 }
 #gallery_marker_17{
 	position:absolute;
-	left: 652px;
-	top: 370px;
+	left: 602px;
+	top: 365px;
 }
 #gallery_marker_18{
 	position:absolute;
@@ -115,8 +115,18 @@
 }
 #gallery_marker_21{
 	position:absolute;
-	left: 705px;
-	top: 373px;
+	left: 654px;
+	top: 374px;
+}
+#gallery_marker_22{
+	position:absolute;
+	left: 769px;
+	top: 308px;
+}
+#gallery_marker_23{
+	position:absolute;
+	left: 438px;
+	top: 154px;
 }
 #info_interface{
 	position:relative;
