@@ -26,6 +26,7 @@
 		}
 
 		.list_item_chosen{
+			width: 255px;
 			background: #ed1e79;
 			color: white;
 			display:inline-block;
