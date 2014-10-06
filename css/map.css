@@ -1,17 +1,63 @@
-#content{
+@font-face{
+	font-family: "KozGo";
+	src:url('../font/KozGoPro-Regular.otf');
 }
+
+#content{
+	margin-top: 100px;
+}
+
 #detail_info{
-	height:190px;
+	height:150px;
 	margin-bottom:10px;
 }
+
+.detail_info_name {
+	font-family: KozGo;
+	font-size: 18px;
+	color: gray;
+	font-weight: bold;
+	line-height: 30px;
+	vertical-align: middle;
+}
+
+.detail_info_address {
+	font-family: KozGo;
+	font-size: 14px;
+	color: gray;
+	line-height: 25px;
+	vertical-align: middle;
+}
+
+.detail_info_website {
+	font-family: KozGo;
+	font-size: 14px;
+	line-height: 25px;
+	vertical-align: middle;
+	color: black;
+}
+
+.detail_info_website > a:link {
+	color: black;
+}
+
+.detail_info_website > a:visited {
+	color: black;
+}
+
+.detail_info_website > a:hover {
+	color: black;
+	font-weight: bold;
+}
+
 #gallery{
-	height:250px;
+	height:290px;
 }
 .gallery_detail_info{
 	position:absolute;
 	visibility: hidden;
 	width:300px;
-	height:190px;
+	height:150px;
 }
 #gallery_marker_1{
 	position:absolute;
@@ -137,8 +183,8 @@
 	vertical-align:top;
 }
 .info_item{
-	font-family:微軟正黑體;
-	font-size:11pt;
+	font-family:KozGo;
+	font-size:10pt;
 	width:140px;
 	height:23px;
 	display: inline-block;
@@ -149,7 +195,7 @@
 	font-weight:bold;	
 }
 .info_item_chosen{
-	color:blue;
+	color:green;
 }
 .info_item_number{
 	height:16px;
@@ -161,9 +207,9 @@
 	display:inline-block;
 	vertical-align:middle;
 	text-align:center;
-	line-height:16px;
-	margin-right:2px;
-	font-size:10pt;
+	line-height:17px;
+	margin-right:4px;
+	font-size:9pt;
 }
 #map{
 	position:relative;
@@ -180,10 +226,11 @@
 	background: url(../img/mapmark.png);
 	background-size:cover;
 	text-align: center;
-	font-size: 10pt;
-	font-family: 微軟正黑體;
+	font-size: 9pt;
+	font-family: KozGo;
 	line-height: 20px;
 	cursor:pointer;
+	color: white;
 }
 .marker_chosen{
 	 -webkit-filter: hue-rotate(90deg);
