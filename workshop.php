@@ -6,7 +6,9 @@
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
 	<style>
 		#list{
-			width:250px;
+			position:absolute;
+			left:0px;
+			width:255px;
 			height:400px;
 			font-family: KozGo;
 			font-size: 18px;
@@ -15,7 +17,12 @@
 			display:inline-block;
 			vertical-align:top;
 		}
-
+		
+		#list_table{
+			border-collapse: collapse;
+			border-spacing: 0px;
+		}
+		
 		.list_item{
 			width: 250px;
 			height: 40px;
@@ -23,6 +30,8 @@
 			color:white;
 			display:inline-block;
 			cursor:pointer;
+			float:left;
+			margin-bottom:3px;
 		}
 
 		.list_item_chosen{
@@ -34,14 +43,16 @@
 		}
 
 		#content{
-			width:780px;
-			background:#ed1e79;
+			position:absolute;
+			left:255px;
+			width:780px;			
 			height:500px;
 			display:inline-block;
 			vertical-align:top;
 		}
 
 		.content_page{
+			background:#ed1e79;
 			width:780px;
 			height:500px;
 			position:absolute;
@@ -60,38 +71,12 @@
 			 
 			<div id="tabs">
 				<div id="list">
-					<table>
-						<tr>
-							<td>
-								<div id="list_item_1" class="list_item" data="1">【 藝術 × 投資 】</div>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<div id="list_item_2" class="list_item" data="2">【 藝術 × 時尚】</div>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<div id="list_item_3" class="list_item" data="3">【 藝術 × 人生 】</div>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<div id="list_item_4" class="list_item" data="4">【 藝術 × 居家空間 】</div>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
-							</td>
-						</tr>	
-						<tr>
-							<td>
-								<div id="list_item_6" class="list_item" data="6">【 70、80 兩岸當代藝術家】</div>
-							</td>
-						</tr>							
-					</table>
+					<div id="list_item_1" class="list_item" data="1">【 藝術 × 投資 】</div>
+					<div id="list_item_2" class="list_item" data="2">【 藝術 × 時尚】</div>
+					<div id="list_item_3" class="list_item" data="3">【 藝術 × 人生 】</div>
+					<div id="list_item_4" class="list_item" data="4">【 藝術 × 居家空間 】</div>
+					<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
+					<div id="list_item_6" class="list_item" data="6">【 70、80 兩岸當代藝術家】</div>
 				</div>
 				<div id="content">
 					<div id="content_page_1" class="content_page" data="1">
