@@ -86,9 +86,9 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 大都−王懷慶個展（耿畫廊）—— 世界名畫典藏展（愛力根畫廊）——「抽象．符碼．東方情」── 臺灣現代藝術巨匠大展
+						捷運西湖站 —— 大都−王懷慶個展（<a href="http://www.tinakenggallery.com">耿畫廊</a>）—— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts">愛力根畫廊</a>）——「抽象．符碼．東方情」── 臺灣現代藝術巨匠大展
 						<br>
-						（尊彩藝術中心）—— 凝視須臾-宜德思・盧信與琵亞・維仕坦伯格對話展（學學原色空間）＋講座【藝術×時尚】盧淑芬小姐（學學文創志業）
+						（<a href="http://www.lianggallery.com/">尊彩藝術中心</a>）—— 凝視須臾-宜德思・盧信與琵亞・維仕坦伯格對話展（<a href="http://green.xuexue.tw">學學原色空間</a>）＋講座【藝術×時尚】盧淑芬小姐（學學文創志業）
 					</div>
 				</div>
 				<div>
@@ -100,9 +100,9 @@
 					<div class="three_lines">
 						  捷運西湖站 —— 雕・塑－永恆的建築：阿爾瓦羅・西薩亞洲作品展（學學實聯藝術空間）——【台灣工銀堤頂之星藝術展：彼岸控】
 						  <br>
-						  創作聯展（台灣工銀藝文空間）——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（尊彩藝術中心）
+						  創作聯展（<a href="http://www.ibtef.org.tw">台灣工銀藝文空間</a>）——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（<a href="http://www.lianggallery.com/">尊彩藝術中心</a>）
 						  <br>
-						  —— 水・墨 靳杰強個展（藝境畫廊）＋講座【藝術×居家空間】王正凱先生（藝境畫廊）
+						  —— 水・墨 靳杰強個展（<a href="http://www.artdoor.com.tw">藝境畫廊</a>）＋講座【藝術×居家空間】王正凱先生（<a href="http://www.artdoor.com.tw">藝境畫廊</a>）
 					</div>
 				</div>
 				<div class="guide_enroll">
@@ -123,9 +123,9 @@
 						（六）
 					</div>
 					<div class="guide_line">
-						捷運大直站 ——「人・形・雕」日本木雕藝術家聯展（青雲畫廊）—— 複調的詩學－楊識宏個展（亞洲藝術）
+						捷運大直站 ——「人・形・雕」日本木雕藝術家聯展（<a href="http://www.cloud-gallery.org/">青雲畫廊</a>）—— 複調的詩學－楊識宏個展（<a href="http://www.asiaartcenter.org">亞洲藝術</a>）
 						<br>
-						—— 京都一布や－職人手作工房展（餘白藝廊）＋講座 【藝術×人生】勞維俊先生（亞洲藝術中心）
+						—— 京都一布や－職人手作工房展（<a href="http://www.yohakugallery.com">餘白藝廊</a>）＋講座 【藝術×人生】勞維俊先生（<a href="http://www.asiaartcenter.org">亞洲藝術中心</a>）
 					</div>
 				</div>
 				<div>
@@ -135,9 +135,9 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運劍南站 —— 法國雕塑家 VAL 2014 新作與精選展（菲利浦畫廊）—— 采泥藝術 —— 京都一布や－職人手作工房展（餘白藝廊）
+						捷運劍南站 —— 法國雕塑家 VAL 2014 新作與精選展（<a href="http://www.philippestaibgallery.com">菲利浦畫廊</a>）—— 采泥藝術 —— 京都一布や－職人手作工房展（<a href="http://www.yohakugallery.com">餘白藝廊</a>）
 						<br>
-						—— 複調的詩學－楊識宏個展（亞洲藝術）＋講座 【藝術×閱讀×生活】鄭俊德先生（餘白藝廊 Yuhaku Gallery）
+						—— 複調的詩學－楊識宏個展（<a href="http://www.asiaartcenter.org">亞洲藝術</a>）＋講座 【藝術×閱讀×生活】鄭俊德先生（<a href="http://www.yohakugallery.com">餘白藝廊 Yuhaku Gallery</a>）
 					</div>
 					<div class="guide_enroll">
 						<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform">
