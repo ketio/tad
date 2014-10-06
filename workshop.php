@@ -16,6 +16,7 @@
 			text-align: center;
 			display:inline-block;
 			vertical-align:top;
+			margin-bottom: 10px;
 		}
 		
 		#list_table{
