@@ -150,6 +150,12 @@
 	color: white;
 	cursor:pointer;
 }
+
+#subscription_button:hover {
+	background-color: #ed1e79;
+	border:  2px solid #ed1e79;
+}
+
 #title_interface{
 	position:relative;
 	width:1140px;
@@ -338,7 +344,7 @@
 
 .guide_enroll {
 	font-size: 16px;
-	background-color: rgb(247,147,30);
+	background-color: #ed1e79;
 	color:white;
 	width:100px;
 	height: 30px;
@@ -432,7 +438,7 @@
 
 .theme_content > div {
 	font-size: 16px;
-	background-color: rgb(247,147,30);
+	background-color: #ed1e79;
 	color:white;
 	width:150px;
 	height: 30px;
@@ -530,6 +536,16 @@
 }
 
 /* news page finish */
+
+/* workshop page */
+
+#tabs {
+	margin-top: 100px;
+	margin-right: 30px;
+}
+
+/* workshop page finish */
+
 /*Bullet Navigator Skin*/
 /* jssor slider bullet navigator skin 05 css */
 /*

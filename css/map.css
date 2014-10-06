@@ -195,7 +195,8 @@
 	font-weight:bold;	
 }
 .info_item_chosen{
-	color:green;
+	color: #ed1e79;
+	font-weight: bold;
 }
 .info_item_number{
 	height:16px;

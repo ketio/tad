@@ -2,33 +2,43 @@
 <html>
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title></title>
+	<title>大內藝術節｜大內講堂</title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
 	<style>
 		#list{
-			width:300px;
+			width:250px;
 			height:400px;
+			font-family: KozGo;
+			font-size: 18px;
+			line-height: 40px;
+			text-align: center;
 			display:inline-block;
 			vertical-align:top;
 		}
+
 		.list_item{
+			width: 250px;
+			height: 40px;
 			background:black;
 			color:white;
 			display:inline-block;
 			cursor:pointer;
 		}
+
 		.list_item_chosen{
-			background:white;
-			color:black;
+			background: #ed1e79;
+			color: white;
 			display:inline-block;
 			cursor:pointer;	
 		}
+
 		#content{
-			width:830px;
+			width:780px;
 			height:500px;
 			display:inline-block;
 			vertical-align:top;
 		}
+
 		.content_page{
 			position:absolute;
 			visibility:hidden;
@@ -49,32 +59,32 @@
 					<table>
 						<tr>
 							<td>
-								<div id="list_item_1" class="list_item" data="1">【藝術x投資】</div>
+								<div id="list_item_1" class="list_item" data="1">【 藝術 × 投資 】</div>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<div id="list_item_2" class="list_item" data="2">【藝術x時尚】</div>
+								<div id="list_item_2" class="list_item" data="2">【 藝術 × 時尚】</div>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<div id="list_item_3" class="list_item" data="3">【藝術x人生】</div>
+								<div id="list_item_3" class="list_item" data="3">【 藝術 × 人生 】</div>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<div id="list_item_4" class="list_item" data="4">【藝術x居家空間】</div>
+								<div id="list_item_4" class="list_item" data="4">【 藝術 × 居家空間 】</div>
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<div id="list_item_5" class="list_item" data="5">【藝術x閱讀x生活】</div>
+								<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
 							</td>
 						</tr>	
 						<tr>
 							<td>
-								<div id="list_item_6" class="list_item" data="6">【70、80兩岸當代藝術家：在路上】</div>
+								<div id="list_item_6" class="list_item" data="6">【 70、80 兩岸當代藝術家】</div>
 							</td>
 						</tr>							
 					</table>
