@@ -42,6 +42,7 @@
 		}
 
 		.content_page{
+			margin-top: 2px;
 			width:780px;
 			height:500px;
 			position:absolute;
