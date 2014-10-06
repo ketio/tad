@@ -8,7 +8,7 @@
 		#list{
 			position:absolute;
 			left:0px;
-			width:255px;
+			width:253px;
 			height:400px;
 			font-family: KozGo;
 			font-size: 18px;
@@ -18,12 +18,7 @@
 			vertical-align:top;
 			margin-bottom: 10px;
 		}
-		
-		#list_table{
-			border-collapse: collapse;
-			border-spacing: 0px;
-		}
-		
+			
 		.list_item{
 			margin-bottom: 5px;
 			width: 250px;
@@ -37,7 +32,7 @@
 		}
 
 		.list_item_chosen{
-			width: 255px;
+			width: 253px;
 			background: #ed1e79;
 			color: white;
 			display:inline-block;
@@ -46,7 +41,7 @@
 
 		#content{
 			position:absolute;
-			left:255px;
+			left:253px;
 			width:780px;			
 			height:500px;
 			display:inline-block;
