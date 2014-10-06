@@ -24,6 +24,7 @@
 			cursor:pointer;	
 		}
 		#content{
+			background:#ed1e79;
 			width:830px;
 			height:500px;
 			display:inline-block;
