@@ -264,6 +264,18 @@
 	display: inline-block;
 }
 
+.three_lines > a:link{
+	color: gray;
+}
+
+.three_lines > a:visited{
+	color: gray;
+}
+
+.three_lines > a:hover{
+	font-weight: bold;
+}
+
 .guide_category{
 	width: 150px;
 	height: 40px;
@@ -315,7 +327,7 @@
 	font-weight: lighter;
 	border: solid black 10px;
 	text-align: center;
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 25px;
 	margin-top: 20px;
 	margin-bottom: 20px;

@@ -9,6 +9,7 @@
 	<script>
 		var now_gallery="0";
 		$(document).ready(function(){
+			$("#gallery_detail_info_0").css("visibility","visible");
 		
 			$(".marker").click(function(){			
 				choose_gallery($(this).attr("id"));
@@ -64,6 +65,9 @@
 				</div>
 				<div id="info_interface">
 					<div id="detail_info">
+						<div id="gallery_detail_info_0" data="0" class="gallery_detail_info">
+							<div>請點選左方圖示或下方藝廊列表</div>
+						</div>
 						<div id="gallery_detail_info_1" data="1" class="gallery_detail_info">
 							<div class="detail_info_name">采泥藝術 Chini Gallery</div>
 							<div class="detail_info_address">台北市中山區敬業一路 128 巷 46、48 號 1 樓</div>
