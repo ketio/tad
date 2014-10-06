@@ -88,7 +88,7 @@
 					<div class="guide_line">
 						捷運西湖站 —— 大都−王懷慶個展（<a href="http://www.tinakenggallery.com">耿畫廊</a>）—— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts">愛力根畫廊</a>）——「抽象．符碼．東方情」── 臺灣現代藝術巨匠大展
 						<br>
-						（<a href="http://www.lianggallery.com/">尊彩藝術中心</a>）—— 凝視須臾-宜德思・盧信與琵亞・維仕坦伯格對話展（<a href="http://green.xuexue.tw">學學原色空間</a>）＋講座【藝術×時尚】盧淑芬小姐（學學文創志業）
+						（<a href="http://www.lianggallery.com/">尊彩藝術中心</a>）—— 凝視須臾-宜德思・盧信與琵亞・維仕坦伯格對話展（<a href="http://green.xuexue.tw">學學原色空間</a>）＋講座【藝術×時尚】盧淑芬小姐（<a href="http://green.xuexue.tw">學學文創志業</a>）
 					</div>
 				</div>
 				<div>
@@ -98,7 +98,7 @@
 						（六）
 					</div>
 					<div class="three_lines">
-						  捷運西湖站 —— 雕・塑－永恆的建築：阿爾瓦羅・西薩亞洲作品展（學學實聯藝術空間）——【台灣工銀堤頂之星藝術展：彼岸控】
+						  捷運西湖站 —— 雕・塑－永恆的建築：阿爾瓦羅・西薩亞洲作品展（<a href="http://green.xuexue.tw">學學實聯藝術空間</a>）——【台灣工銀堤頂之星藝術展：彼岸控】
 						  <br>
 						  創作聯展（<a href="http://www.ibtef.org.tw">台灣工銀藝文空間</a>）——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（<a href="http://www.lianggallery.com/">尊彩藝術中心</a>）
 						  <br>
