@@ -24,6 +24,7 @@
 		}
 		
 		.list_item{
+			margin-bottom: 5px;
 			width: 250px;
 			height: 40px;
 			background:black;
@@ -49,6 +50,7 @@
 			height:500px;
 			display:inline-block;
 			vertical-align:top;
+			margin-top: 3px;
 		}
 
 		.content_page{
@@ -57,6 +59,16 @@
 			height:500px;
 			position:absolute;
 			visibility:hidden;
+			color: white;
+			margin-top: 10px;
+			margin-left: 20px;
+		}
+
+		.content_title{
+			font-family: KozGo;
+			font-size: 20px;
+			line-height: 40px;
+			font-weight: bold;
 		}
 	</style>
 	</head>
@@ -81,7 +93,7 @@
 				<div id="content">
 					<div id="content_page_1" class="content_page" data="1">
 						<div class="content_title">
-							【藝術x投資】收藏是深度的欣賞，投資是深度的收藏
+							【藝術 × 投資】收藏是深度的欣賞，投資是深度的收藏
 						</div>
 						<div class="content_body">
 							進入藝術典藏有沒有門檻？怎樣培養鑑賞藝術的品味？進入藝術投資有沒有門檻？怎樣在令人眼花撩亂、驚艷不止的藝術世界中培養出個人獨特對於藝術的思考與看法？
