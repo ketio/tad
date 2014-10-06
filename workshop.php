@@ -33,12 +33,9 @@
 		}
 
 		#content{
-<<<<<<< HEAD
 			width:780px;
-=======
 			background:#ed1e79;
 			width:830px;
->>>>>>> FETCH_HEAD
 			height:500px;
 			display:inline-block;
 			vertical-align:top;
