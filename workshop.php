@@ -28,13 +28,15 @@
 				<div id="content">
 					<div id="content_page_1" class="content_page" data="1">
 						<div class="content_title">
-							【藝術 × 投資】收藏是深度的欣賞，投資是深度的收藏
+							收藏是深度的欣賞，投資是深度的收藏
 						</div>
 						<div class="content_body">
+							<div class="workshop_sub"><strong>簡介</strong></div>
 							進入藝術典藏有沒有門檻？怎樣培養鑑賞藝術的品味？進入藝術投資有沒有門檻？怎樣在令人眼花撩亂、驚艷不止的藝術世界中培養出個人獨特對於藝術的思考與看法？
 							</br>
 							這場與藝術的微沙龍，將與你分享藝術世界、藝術市場沒有界線的親和力，以「收藏是深度的欣賞；投資是深度的收藏」的信念，破除你對藝術投資與收藏互有衝突的迷思。
 							</br>
+							<div class="workshop_sub"><strong>講座資訊</strong></div>
 							主講人: 陸潔民 (畫廊協會資深顧問) （已有圖片）</br>
 							時間：10/25(六)下午3-4點</br>
 							地點: 秋刀魚藝術中心 (台北市中山區基湖路137號1樓)</br>

@@ -420,6 +420,7 @@
 	font-size: 14px;
 	width: 730px;
 	margin-left: 25px; 
+	margin-bottom: 10px;
 }
 
 .arthur_info > div {
@@ -554,32 +555,31 @@
 #tabs {
 	margin-right: 30px;
 	position:relative;
+	margin-top: 100px;
 }
 
 #list{
 	position:absolute;
 	left:0px;
 	width:253px;
-	height:400px;
+	height:500px;
 	font-family: KozGo;
 	font-size: 18px;
-	line-height: 40px;
+	line-height: 50px;
 	text-align: center;
 	display:inline-block;
 	vertical-align:top;
-	margin-bottom: 20px;
 }
 	
 .list_item{
-	margin-bottom: 5px;
-	width: 250px;
-	height: 40px;
+	width: 230px;
+	height: 50px;
 	background:black;
 	color:white;
 	display:inline-block;
 	cursor:pointer;
 	float:left;
-	margin-bottom:3px;
+	margin-bottom:10px;
 }
 
 .list_item_chosen{
@@ -597,25 +597,38 @@
 	height:500px;
 	display:inline-block;
 	vertical-align:top;
-	margin-top: 3px;
 }
 
 .content_page{
-	background:#ed1e79;
+	background-color: white;
 	width:780px;
 	height:500px;
 	position:absolute;
 	visibility:hidden;
-	color: white;
-	margin-top: 10px;
-	margin-left: 20px;
+	color: black;
 }
 
 .content_title{
 	font-family: KozGo;
 	font-size: 20px;
-	line-height: 40px;
+	line-height: 50px;
 	font-weight: bold;
+	color: #ed1e79;
+	background:white;
+	padding-left: 20px;
+}
+.content_body{
+	padding-left: 30px;
+	color:gray;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.workshop_sub{
+	font-size: 18px;
+	color: black;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 /* workshop page finish */
 

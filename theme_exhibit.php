@@ -69,36 +69,54 @@
 					過於喧囂的孤獨：曹良賓、陳以軒
 				</div>
 				<div class="arthur">
-					<div class="arthur_photo">
-						<img src="img/themeexhibit/陳以軒(城市精神).jpg" height="280">
-					</div>
 					<div class="arthur_info">
-						<strong>藝術家介紹｜陳以軒</strong>
+						<strong>藝術家介紹｜曹良賓</strong>
 						<div>
-						陳以軒畢業於輔仁大學廣告傳播學系，後於紐約普瑞特藝術學院獲得攝影創作碩士，以臺北和紐約兩個城市作爲創作基地，影像為主要創作媒材。他是唯一一位受邀參加2012年紐約攝影藝術節（New York Photo Festival 2012）的華裔藝術家，並於同年獲選爲 PHOTO TAIPEI 新銳藝術家。
-						</div>
-						<div>
-						2013 年 7 月於 hpgrp GALLERY NEW YORK 舉辦個展《我要離開這個城市了（I am Leaving this City）》，探索在兩個城市之間往返喪失的歸屬感。2014年2月於關渡美術館舉行《你是懂了嘛（Nessun Dorma）》個展，其中主要的錄像作品中陳以軒為義大利歌劇詠嘆調〈公主徹夜未眠〉配上音譯中文字幕，成為無意義中帶有意義的戲謔獨白，呈現台上台下盲目因襲的崇拜。其作品《遍尋無處（Nowhere in Taiwan）》系列尋找自我與土地的認同，於2012年起在紐約展出，後被收爲休士頓美術館（Museum of Fine Arts, Houston）的永久館藏，並將於 2015 年在臺北市立美術館展出。
+						曹良賓，台灣新竹出生。美國紐約普拉特藝術學院藝術創作碩士。曾獲選文化部「Residency Unlimited 紐約駐村創作計劃」、美國紐約甘柏馨藝術獎。從事影像創作，作品在台灣、日本、韓國、美國等地展出。
 						</div>
 					</div>
+					<div>
+						<div class="arthur_photo">
+							<img src="img/themeexhibit/陳以軒(城市精神).jpg" height="280">
+						</div>
+						<div class="arthur_info">
+							<strong>藝術家介紹｜陳以軒</strong>
+							<div>
+							陳以軒畢業於輔仁大學廣告傳播學系，後於紐約普瑞特藝術學院獲得攝影創作碩士，以臺北和紐約兩個城市作爲創作基地，影像為主要創作媒材。他是唯一一位受邀參加2012年紐約攝影藝術節（New York Photo Festival 2012）的華裔藝術家，並於同年獲選爲 PHOTO TAIPEI 新銳藝術家。
+							</div>
+							<div>
+							2013 年 7 月於 hpgrp GALLERY NEW YORK 舉辦個展《我要離開這個城市了（I am Leaving this City）》，探索在兩個城市之間往返喪失的歸屬感。2014年2月於關渡美術館舉行《你是懂了嘛（Nessun Dorma）》個展，其中主要的錄像作品中陳以軒為義大利歌劇詠嘆調〈公主徹夜未眠〉配上音譯中文字幕，成為無意義中帶有意義的戲謔獨白，呈現台上台下盲目因襲的崇拜。其作品《遍尋無處（Nowhere in Taiwan）》系列尋找自我與土地的認同，於2012年起在紐約展出，後被收爲休士頓美術館（Museum of Fine Arts, Houston）的永久館藏，並將於 2015 年在臺北市立美術館展出。
+							</div>
+						</div>
+					</div>
+					
 				</div>
 
 				<div class="theme_name">
 					小世界，大視界：梁以妮、楊登棋
 				</div>
 				<div class="arthur">
-					<div class="arthur_photo">
-						<img src="img/themeexhibit/楊登棋(城市精神).jpg" height="275">
-					</div>
 					<div class="arthur_info">
-						<strong>藝術家介紹｜楊登棋</strong>
+						<strong>藝術家介紹｜梁以妮</strong>
 						<div>
-						自由攝影師與影像美術；1986 年生於台中縣東勢鎮，目前工作與生活在台北，2008 年畢業于大葉大學視覺傳達設計系，實驗影像作品「Marrow 無憂」。
-						</div>
-						<div>
-						獲台北電影節非劇情類特別奬，2009 年從事電影《一頁台北》，《艋舺》美術，2011 年 首次登曼波台北個展 「Sleep Lesson」，2012 年帶著阿嬤赴京都旅行，拍攝第二部個人作品，2013 年擔任林宥嘉 「我們從未不認識 we’ve met before」攝影師，在柏林旅遊與當地藝術家生活，2014 年三月將在上海老碼頭第二個展 「 Im/permanence 無常 」。
+						1987 年生於台南縣佳里鎮，現居台北。2013 年畢業於臺灣藝術大學多媒體動畫藝術學系 — 新媒體研究所。2010 至今參與展覽，如《Loop # 01-Window Installation》tamtamART TAIPEI IPIX、《廢墟×都市×怪談》寶藏巖國際藝術村、《果貿社區》國立台灣美術館、《微共鳴─後居所的未定》寶藏巖國際藝術村⋯⋯等。
 						</div>
 					</div>
+					<div>
+						<div class="arthur_photo">
+							<img src="img/themeexhibit/楊登棋(城市精神).jpg" height="275">
+						</div>
+						<div class="arthur_info">
+							<strong>藝術家介紹｜楊登棋</strong>
+							<div>
+							自由攝影師與影像美術；1986 年生於台中縣東勢鎮，目前工作與生活在台北，2008 年畢業于大葉大學視覺傳達設計系，實驗影像作品「Marrow 無憂」。
+							</div>
+							<div>
+							獲台北電影節非劇情類特別奬，2009 年從事電影《一頁台北》，《艋舺》美術，2011 年 首次登曼波台北個展 「Sleep Lesson」，2012 年帶著阿嬤赴京都旅行，拍攝第二部個人作品，2013 年擔任林宥嘉 「我們從未不認識 we’ve met before」攝影師，在柏林旅遊與當地藝術家生活，2014 年三月將在上海老碼頭第二個展 「 Im/permanence 無常 」。
+							</div>
+						</div>
+					</div>
+					
 				</div>
 
 				<div id="footer">
