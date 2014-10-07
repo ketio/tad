@@ -1,4 +1,4 @@
-<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 
 <script>
 $(document).ready(function(){
@@ -21,13 +21,13 @@ $(document).ready(function(){
 });
 </script>
 
-<link type="text/css" rel="stylesheet" href="/css/header_style.css"/>
+<link type="text/css" rel="stylesheet" href="css/header_style.css"/>
 <div id="header">
 	<div id="logo">
-		<a href="/index.php"><img alt="大內藝術節" src="/img/Web_logo.png" height="100"></a>
+		<a href="index.php"><img alt="大內藝術節" src="img/Web_logo.png" height="100"></a>
 	</div>
 	<div class="top_category">
-		<a href="/abouts.php">
+		<a href="abouts.php">
 			<div class="top_category_item">
 				關於
 				<br>
@@ -37,7 +37,7 @@ $(document).ready(function(){
 		</a>
 	</div>
 	<div class="top_category">
-		<a href="/map.php">
+		<a href="map.php">
 			<div class="top_category_item">
 				TAD 地圖
 				<br>
@@ -55,17 +55,17 @@ $(document).ready(function(){
 		<div class="category_bar"></div>
 		<!--活動下拉式選單-->
 		<div id="active_list" class="active_list" >
-			<a href="/theme_exhibit.php">
+			<a href="theme_exhibit.php">
 				<div class="active_list_item">
 					年度主題展
 				</div>
 			</a>
-			<a href="/guide.php">
+			<a href="guide.php">
 				<div class="active_list_item">
 				藝術導覽
 				</div>
 			</a>
-			<a href="/workshop.php">
+			<a href="workshop.php">
 				<div class="active_list_item">
 					大內講堂
 				</div>
@@ -73,7 +73,7 @@ $(document).ready(function(){
 		</div>
 	</div>
 	<div class="top_category">
-		<a href="/news.php">
+		<a href="news.php">
 			<div class="top_category_item">
 				媒體報導
 				<br>
