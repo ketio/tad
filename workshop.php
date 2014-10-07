@@ -25,7 +25,7 @@
 					<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
 					<div id="list_item_6" class="list_item" data="6">【 70、80 兩岸當代藝術家】</div>
 				</div>
-				<div id="content">
+				<div id="workshop_content">
 					<div id="content_page_1" class="content_page" data="1">
 						<div class="content_title">
 							收藏是深度的欣賞，投資是深度的收藏

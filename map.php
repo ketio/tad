@@ -37,7 +37,7 @@
 		<?php 
 			include_once "header.php"; 		
 		?>
-			<div id="content">
+			<div id="map_content">
 				<div id="map">
 					<div id="gallery_marker_1" data="1" class="marker">1</div>
 					<div id="gallery_marker_2" data="2" class="marker">2</div>
