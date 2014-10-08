@@ -96,12 +96,18 @@
 					小世界，大視界：梁以妮、楊登棋
 				</div>
 				<div class="arthur">
-					<div class="arthur_info">
-						<strong>藝術家介紹｜梁以妮</strong>
-						<div>
-						1987 年生於台南縣佳里鎮，現居台北。2013 年畢業於臺灣藝術大學多媒體動畫藝術學系 — 新媒體研究所。2010 至今參與展覽，如《Loop # 01-Window Installation》tamtamART TAIPEI IPIX、《廢墟×都市×怪談》寶藏巖國際藝術村、《果貿社區》國立台灣美術館、《微共鳴─後居所的未定》寶藏巖國際藝術村⋯⋯等。
+					<div>
+						<div class="arthur_photo">
+							<img src="img/themeexhibit/梁以妮(城市精神).jpg" height="275">
+						</div>
+						<div class="arthur_info">
+							<strong>藝術家介紹｜梁以妮</strong>
+							<div>
+								1987 年生於台南縣佳里鎮，現居台北。2013 年畢業於臺灣藝術大學多媒體動畫藝術學系 — 新媒體研究所。2010 至今參與展覽，如《Loop # 01-Window Installation》tamtamART TAIPEI IPIX、《廢墟×都市×怪談》寶藏巖國際藝術村、《果貿社區》國立台灣美術館、《微共鳴─後居所的未定》寶藏巖國際藝術村⋯⋯等。
+							</div>
 						</div>
 					</div>
+					
 					<div>
 						<div class="arthur_photo">
 							<img src="img/themeexhibit/楊登棋(城市精神).jpg" height="275">
