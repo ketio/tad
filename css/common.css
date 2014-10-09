@@ -621,16 +621,29 @@
 	padding-left: 30px;
 	color:gray;
 	font-size: 16px;
-	line-height: 22px;
+	line-height: 24px;
 	font-family: KozGo;
 }
 
 .workshop_sub{
 	font-size: 18px;
 	color: black;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	padding-top: 10px;
 }
+
+.workshop_info >div{
+	display: inline-block;
+}
+.workshop_arthur {
+	width: 500px;
+	margin-left: 10px;
+}
+
+.workshop_info {
+	margin-top: 10px;
+}
+
 /* workshop page finish */
 
 /*Bullet Navigator Skin*/
