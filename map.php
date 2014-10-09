@@ -180,7 +180,7 @@
 						</div>	
 						<div id="gallery_detail_info_23" data="23" class="gallery_detail_info">
 							<div class="detail_info_name">藝境畫廊 ARTDOOR Gallery</div>
-							<div class="detail_info_address"></div>
+							<div class="detail_info_address">台北市內湖區瑞光路 639 號 1 樓</div>
 							<div class="detail_info_website"><a href="http://www.artdoor.com.tw" target="_blank">前往官方網站 〉</a></div>
 						</div>						
 					</div>
