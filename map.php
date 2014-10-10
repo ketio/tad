@@ -17,6 +17,14 @@
 			$(".info_item").click(function(){			
 				choose_gallery($(this).attr("id"));
 			});
+			$(".detail_info_address").each(function(){
+				
+				var address=$(this).html();
+				var map_search_str="https://www.google.com.tw/maps/place/"+address;				
+				map_search_str=encodeURI(map_search_str);				
+				map_search_str="<a href='"+map_search_str+"' target='_blank'>"+address+"</a>";
+				$(this).html(map_search_str);				
+			});
 		});
 		function choose_gallery(id){
 			$("#gallery_marker_"+now_gallery).removeClass("marker_chosen");

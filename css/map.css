@@ -29,6 +29,16 @@
 	vertical-align: middle;
 }
 
+.detail_info_address > a,
+.detail_info_address > a:link,
+.detail_info_address > a:visited{
+	color: gray;
+	cursor:pointer;
+}
+.detail_info_address > a:hover{
+	font-weight: bold;
+}
+
 .detail_info_website {
 	font-family: KozGo;
 	font-size: 14px;
