@@ -625,6 +625,18 @@
 	font-family: KozGo;
 }
 
+.content_body > a:link{
+	color: gray;
+}
+
+.content_body > a:visited{
+	color: gray;
+}
+
+.content_body > a:hover{
+	font-weight: bold;
+}
+
 .workshop_sub{
 	font-size: 18px;
 	color: black;
@@ -632,16 +644,40 @@
 	padding-top: 10px;
 }
 
-.workshop_info >div{
-	display: inline-block;
-}
+
 .workshop_arthur {
 	width: 500px;
-	margin-left: 10px;
+	display: inline-block;
 }
 
 .workshop_info {
 	margin-top: 10px;
+}
+
+.workshop_photo {
+	vertical-align: top;
+	margin-left: 30px;
+	display: inline-block;
+}
+
+.workshop_enroll {
+	margin-top: 30px;
+	font-size: 16px;
+	background-color: #ed1e79;
+	color:white;
+	width:100px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-left: 680px;
+}
+
+.workshop_enroll > a:link{
+	color:white;
+}
+
+.workshop_enroll > a:visited{
+	color:white;
 }
 
 /* workshop page finish */

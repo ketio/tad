@@ -4,6 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>大內藝術節｜大內講堂</title>
 	<link type="text/css" rel="stylesheet" href="css/common.css"/>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 	<style>
 	</style>
 	</head>
@@ -40,22 +41,29 @@
 								<strong>主講人：</strong> 陸潔民 (畫廊協會資深顧問)</br>
 								<strong>時間：</strong>10／25 (六)下午 3 - 4 點</br>
 								<strong>地點：</strong> <a href="http://www.fishart.com.tw">秋刀魚藝術中心</a> (台北市中山區基湖路 137 號 1 樓)</br>
-								<div class="workshop_info">
-									<div><img src="/img/workshop/講師_陸潔民.png" height="336"></div>
-									<div class="workshop_arthur">
-										<strong>講者介紹</strong></br>
-										陸潔民於 1989 年四月在美國加州舊金山南灣矽谷高科技工業區巧遇北京畫院畫家趙秀煥老師，因而調動他心中對藝術有興趣的老靈魂，從科技領域跨到藝術界，開始了他的跳 Tone 人生。
-										</br>
-										曾任台灣畫廊協會秘書長，籌辦連續三屆的台北國際藝術博覽會，現任台灣畫廊協會資深顧問、上海藝術博覽會顧問、北京藝術博覽會顧問、北京中央美術學院客座教授、IC 之音『藝術 A B C』節目主持人 (www.IC975.com) 並出版「藝術 A B C」有聲書，他也是上海泓盛拍賣公司顧問、台灣中誠、金仕發藝術品拍賣公司拍賣官。
-										</br>
-										每年積極地參加世界各地的藝術博覽會和藝術活動，使得他擁有廣闊的視野與縝密的觀察力，國際化的藝術投資、亞洲藝術市場的剖析、拍賣市場觀察、藝術博覽會的發展現況、畫廊的經營模式、藝術家與市場供需等，都是他研究的面向，他也不斷以此為藝術市場穩健發展的目標而努力。
-									</div>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>
+							<div class="workshop_info">
+								<div class="workshop_arthur">
+									陸潔民於 1989 年四月在美國加州舊金山南灣矽谷高科技工業區巧遇北京畫院畫家趙秀煥老師，因而調動他心中對藝術有興趣的老靈魂，從科技領域跨到藝術界，開始了他的跳 Tone 人生。
+									</br>
+									曾任台灣畫廊協會秘書長，籌辦連續三屆的台北國際藝術博覽會，現任台灣畫廊協會資深顧問、上海藝術博覽會顧問、北京藝術博覽會顧問、北京中央美術學院客座教授、IC 之音『藝術 A B C』節目主持人 (www.IC975.com) 並出版「藝術 A B C」有聲書，他也是上海泓盛拍賣公司顧問、台灣中誠、金仕發藝術品拍賣公司拍賣官。
+									</br>
+									每年積極地參加世界各地的藝術博覽會和藝術活動，使得他擁有廣闊的視野與縝密的觀察力，國際化的藝術投資、亞洲藝術市場的剖析、拍賣市場觀察、藝術博覽會的發展現況、畫廊的經營模式、藝術家與市場供需等，都是他研究的面向，他也不斷以此為藝術市場穩健發展的目標而努力。
 								</div>
+								<div class="workshop_photo">
+									<img src="/img/workshop/講師_陸潔民.png" height="250">
+								</div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div id="content_page_2" class="content_page" data="2">
 						<div class="content_title">
-							【藝術x時尚】當藝術遇見時尚
+							當藝術遇見時尚
 						</div>
 						<div class="content_body">
 							<div class="workshop_sub"><strong>簡介</strong></div>
@@ -67,20 +75,25 @@
 								<strong>主講人：</strong>盧淑芬 (Elle 她雜誌總編輯)</br>
 								<strong>時間：</strong>10／26 (日)下午 3 - 4 點</br>
 								<strong>地點：</strong> <a href="http://green.xuexue.tw">學學文創志業</a> (台北市內湖區堤頂大道二段 207 號 4F)</br>
-								<div class="workshop_info">
-									<div><img src="/img/workshop/講師_盧淑芬3.jpg" height="336"></div>
-									<div class="workshop_arthur">	
-										<strong>講者介紹：</strong></br>
-										《ELLE國際中文版》總編輯</br>
-										《H arper's B azaar國際中文版》總編輯</br>
-										《Elle國際中文版》時尚總監 13年</br>
-										</br>
-										出版創作</br>
-										世界名牌聖經(大雅生活館)</br>
-										名牌高瘋會(大雅生活館)</br>
-										新流行世紀(大雅生活館)</br>
-									</div>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>
+							<div class="workshop_info">
+								<div class="workshop_arthur">	
+									《ELLE國際中文版》總編輯</br>
+									《H arper's B azaar國際中文版》總編輯</br>
+									《Elle國際中文版》時尚總監 13年</br>
+									</br>
+									出版創作</br>
+									世界名牌聖經(大雅生活館)</br>
+									名牌高瘋會(大雅生活館)</br>
+									新流行世紀(大雅生活館)</br>
 								</div>
+								<div class="workshop_photo"><img src="/img/workshop/講師_盧淑芬3.jpg" height="190"></div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div id="content_page_3" class="content_page" data="3">
@@ -88,52 +101,79 @@
 							如何詩意的活在世上 
 						</div>
 						<div class="content_body">
-							(演講以英文進行The speech is conducted in English)</br>
+							<div class="workshop_sub"><strong>簡介</strong></div>
+							<strong>（演講以英文進行 The speech is conducted in English）</strong></br>
 							如何詩意地活在世上？學者兼紅樓夢評論家劉再復認為林黛玉活出了人生最高境界：詩意地活著。因此，她也是唯一了解賈寶玉的人。【藝術 x人生】講座探討藝術和人生的關係，並主張大眾所理解的「用藝術來豐富人生」是對藝術和人生本質的誤解。不論是「用」藝術來達到目的,或是把藝術視為欣賞對像,都會導向自我的無限膨脹，最終反而活出悖離人生的生活。這場演講將以細讀文學和電影作品為主，探討與藝術、品味、美學相關的議題。演講以英語進行，並輔以國語。</br>
 							How to live poetically? This is a question posted by Liu Zai-fu, a scholar and a critic of The Story of the Stone. Liu thinks that Dai-yu represents the highest way of living: to live poetically. That is why she is the only person who understands Pao-yu. The talk explores the role of art in life, arguing that to ‘use’ art to ‘enrich’ life, as people usually say, is a misunderstanding of both the nature of art and life. ‘Using’ art or to ‘appreciate’ art will only lead to a fake life, and eventually living a life which repudiates life itself. The talk will discuss a few literary and filmic texts, exploring issues related to art, taste and aesthetics. The talk will be conducted in English, complemented by limited Mandarin.</br>
 							</br>
-							主講人: 勞維俊 Louis Lo (台北科技大學  英文系文化研究助理教授) （已有圖片）</br>
-							時間：11/09(日) </br>
-							地點: 亞洲藝術中心 (台北市中山區樂群二路93號)</br>
-							講者介紹：</br>
-							香港大學比較文學哲學博士。喜歡文學、電影、和胡思亂想，前半生誤入工程界，後來以寫作和教學為生，閒來攝影跳舞到處去，好結交怪人。研究興趣：十九世紀以降英美文學、批判理論、性別研究、電影研究、城市與空間理論、中國古典文學。著有:Louis Lo, M ale Jealousy: Literature and Film (C ontinuum , 2008) 和W alking M acao, R eading the B aroque (H K U Press, 2009) (w ith J. Tam bling)。攝影作品可見於近作 ‘B aroque M acao: The C ity, H istory and the D ialectical Im age,’ M acau – C ultural Interaction and Literary R epresentation (R outledge, 2013)。短片導演:《亂語臺北》 (Taipei Astray),2014。
+							<div class="workshop_sub"><strong>講座資訊</strong></div>
+							<strong>主講人：</strong>勞維俊 Louis Lo (台北科技大學  英文系文化研究助理教授)</br>
+							<strong>時間：</strong>11 / 09（日）</br>
+							<strong>地點：</strong> <a href="http://www.asiaartcenter.org/">亞洲藝術中心</a>（台北市中山區樂群二路 93 號）</br>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>
+							<div class="workshop_info">
+								<div class="workshop_arthur">	
+									香港大學比較文學哲學博士。喜歡文學、電影、和胡思亂想，前半生誤入工程界，後來以寫作和教學為生，閒來攝影跳舞到處去，好結交怪人。研究興趣：十九世紀以降英美文學、批判理論、性別研究、電影研究、城市與空間理論、中國古典文學。<br>
+									著有：Louis Lo, Male Jealousy: Literature and Film (Continuum , 2008) 和Walking Macao, Reading the Baroque (HKU Press, 2009) (with J. Tam bling)。<br>
+									攝影作品可見於近作 ‘Baroque Macao: The City, History and the Dialectical Image,’ Macau – Cultural Interaction and Literary Representation (Routledge, 2013)。<br>
+									短片導演：《亂語臺北》 (Taipei Astray), 2014。
+								</div>
+								<div class="workshop_photo"><img src="" height="190"></div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div id="content_page_4" class="content_page" data="4">
 						<div class="content_title">
-							【藝術x居家空間】讓當代藝術更貼近生活
+							讓當代藝術更貼近生活
 						</div>
-						<div class="content_body">						
+						<div class="content_body">
+							<div class="workshop_sub"><strong>簡介</strong></div>						
 							居住在充滿藝術的居家空間裡，可以說是人人夢寐以求的願望。而其實在空間當中打造屬於自己風格的藝術感營造也並非遙不可及，近年來國內外多場的飯店型博覽會就是趨勢的例子，以這類型的展覽參觀讓民眾更能體會當藝術品成為生活的一部份。
 							</br>
 							現代人講求讓生活過得便利的同時也追求各種美感融入生活，藝術生活融合傢俱以及生活空間到日常的想像當中，居家空間與主人的關係是會相互影響的個性，可以見得現在的當代藝術結合了生活美學的新穎風格，也同時也是讓藝術更貼近生活。
 							</br>
-							主講人: 王正凱（一一創意設計有限公司 藝術總監）（已有圖片）</br>
-							時間：11/01(六): 下午3-4點</br>
-							地點: 藝境畫廊 (台北市內湖區瑞光路639號1樓)</br>
-							</br>
-							講者介紹：</br>
-							1964年 生於台北</br>
-							1989年 國立藝術學院(今台北藝術大學)美術系畢業</br>
-							1995年 「泱田影視傳播有限公司」 製片經理 </br>
-							2000年 楊德昌導演 電影『一一』 藝術指導 </br>
-							2003年 「鎧甲娛樂科技股份有限公司」動畫電影製作監督</br>
-							2007年 周美玲導演 電影『漂浪青春』 藝術指導</br>
-							2008 年 晴山國際行銷顧問有限公司 藝術總監</br>
-							2011 年 一一創意設計有公司 藝術總監</br>
-							</br>
-							出版創作</br>
-							1986年 發表複合媒體藝術展演『情境/芭蕾』 台北市立美術館</br>
-							1993年 發表個展 台北 「伊通公園」畫廊</br>
-							1993年 舞台劇『非關男女』舞台設計 台北台灣藝術館</br>
+							<div class="workshop_sub"><strong>講座資訊</strong></div>
+							<strong>主講人：</strong>王正凱（一一創意設計有限公司 藝術總監）</br>
+							<strong>時間：</strong>11 / 01（六）下午 3 - 4 點</br>
+							<strong>地點：</strong> <a href="http://www.artdoor.com.tw/">藝境畫廊</a>（台北市內湖區瑞光路 639 號 1 樓）</br>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>	
+							<div class="workshop_info">
+								<div class="workshop_arthur">	
+									1964年 生於台北</br>
+									1989年 國立藝術學院(今台北藝術大學)美術系畢業</br>
+									1995年 「泱田影視傳播有限公司」 製片經理 </br>
+									2000年 楊德昌導演 電影『一一』 藝術指導 </br>
+									2003年 「鎧甲娛樂科技股份有限公司」動畫電影製作監督</br>
+									2007年 周美玲導演 電影『漂浪青春』 藝術指導</br>
+									2008 年 晴山國際行銷顧問有限公司 藝術總監</br>
+									2011 年 一一創意設計有公司 藝術總監</br>
+									</br>
+									出版創作</br>
+									1986年 發表複合媒體藝術展演『情境/芭蕾』 台北市立美術館</br>
+									1993年 發表個展 台北 「伊通公園」畫廊</br>
+									1993年 舞台劇『非關男女』舞台設計 台北台灣藝術館</br>
+								</div>
+								<div class="workshop_photo"><img src="" height=""></div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div id="content_page_5" class="content_page" data="5">
 						<div class="content_title">					
-							【藝術x閱讀x 生活】閱讀，打開藝術的對話
+							閱讀，打開藝術的對話
 						</div>
 						<div class="content_body">
-							藝術是…人類心靈的收集，歷史的見證，時代的痕跡，這為藝術產生了價值，也產生了距離，只因你讀不懂，看不清，說不出，這就好像聽古典樂，你覺得美好，但卻不懂其意。
+							<div class="workshop_sub"><strong>簡介</strong></div>	
+							藝術是⋯⋯人類心靈的收集，歷史的見證，時代的痕跡，這為藝術產生了價值，也產生了距離，只因你讀不懂，看不清，說不出，這就好像聽古典樂，你覺得美好，但卻不懂其意。
 							</br>
 							其實畫中有話，別怪你讀不懂，因為多數人也是跟你一樣不明其意，以為看不懂就是藝術，但藝術是要讓你用心去讀懂的，所以我們將透過這場分享，與你一起聽見藝術的聲音，與創作者來場心靈對話。
 							</br>
@@ -141,30 +181,51 @@
 							</br>
 							讀懂了這個世界，本身就是一門藝術。
 							</br>
-							</br>
-							主講人: 鄭俊德 (華人閱讀社群主編)（已有圖片）</br>
-							時間：11/08(六)</br>
-							地點：餘白 Yuhaku Gallery (台北市中山區敬業二路69巷28號)</br>
-							講者介紹：</br>
-							現為華人閱讀社群主編，總會員社群人數近百萬。</br>
-							演講經歷</br>
-							TED xTaipei open m ic、社企流年會、交點 、中小企業總會、高雄市政府、今周刊、商業週刊、中華文化總會等等。
+							<div class="workshop_sub"><strong>講座資訊</strong></div>
+							<strong>主講人：</strong>鄭俊德（華人閱讀社群主編）</br>
+							<strong>時間：</strong>11 / 08（六）</br>
+							<strong>地點：</strong> <a href="http://www.artdoor.com.tw/">餘白 Yuhaku Gallery</a>（台北市中山區敬業二路 69 巷 28 號）</br>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>	
+							<div class="workshop_info">
+								<div class="workshop_arthur">	
+									現為華人閱讀社群主編，總會員社群人數近百萬。</br>
+									演講經歷</br>
+									TED xTaipei open mic、社企流年會、交點 、中小企業總會、高雄市政府、今周刊、商業週刊、中華文化總會等等。
+								</div>
+								<div class="workshop_photo"><img src="/img/workshop/講師_鄭俊德.JPG" height="200"></div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div id="content_page_6" class="content_page" data="6">
 						<div class="content_title">	
-							【70、80兩岸當代藝術家：在路上】
+							在路上
 						</div>
 						<div class="content_body">	
+							<div class="workshop_sub"><strong>簡介</strong></div>
 							70後的新世代藝術家，到底是一群要書寫未來歷史的一群？或是被消費的一群？我們該如何看待新世代的藝術家作品？兩岸的新世代藝術家又有怎樣的異同之處呢？新世代藝術家是怎樣出線？又是怎樣離開了跑道？
 							</br>
-							</br>
-							主講人: 鄭乃銘 (CANS 藝術新聞總編輯)（已有圖片）</br>
-							時間：11/02(日) 下午3-4點</br>
-							地點:旻谷藝術(台北市內湖區堤頂大道二段295號)</br>
-							講者介紹：</br>
-							曾任自由時報藝文組記者、自由時報藝文組召集人、C A N S藝術新聞雜誌副總編輯。</br>
-							出版創作有《畫布後的天空》、《七年之癢—在藝術與異數之間》、《藝術家看公共藝術》、《裝置的藝術》。</br>
+							<div class="workshop_sub"><strong>講座資訊</strong></div>
+							<strong>主講人：</strong>鄭乃銘（CANS 藝術新聞總編輯）</br>
+							<strong>時間：</strong>11 / 02（日）下午 3 - 4 點</br>
+							<strong>地點：</strong> <a href="http://www.artdoor.com.tw/">旻谷藝術</a>（台北市內湖區堤頂大道二段 295 號）</br>
+							<div class="workshop_sub"><strong>講師介紹</strong></div>	
+							<div class="workshop_info">
+								<div class="workshop_arthur">
+									曾任自由時報藝文組記者、自由時報藝文組召集人、CANS 藝術新聞雜誌副總編輯。</br>
+									出版創作有《畫布後的天空》、《七年之癢—在藝術與異數之間》、《藝術家看公共藝術》、《裝置的藝術》。</br>
+								</div>
+								<div class="workshop_photo"><img src="/img/workshop/講師_鄭乃銘.jpg" height="200"></div>
+							</div>
+							<div class="workshop_enroll">
+								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">
+								報名去<i class="fa fa-arrow-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>					
 				</div>
