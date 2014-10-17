@@ -17,8 +17,8 @@
 			?>
 
 			<div id="guide">
-				<div id="guide_title">
-					藝術導覽  Art Exhibition Guided Tours
+				<div id="theme_banner">
+					<img src="img/guide.png" width="960">
 				</div>
 				<div class="guide_category">
 					簡介

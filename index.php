@@ -168,6 +168,9 @@
 						<div>
 							<img u="image" src="img/slider/_0006397.png" />
 						</div>
+						<div>
+							<img u="image" src="img/guide.png" />
+						</div>
 					</div>
 					<!-- bullet navigator container -->
 					<div u="navigator" class="jssorb05" style="position: absolute; bottom: 16px; right: 6px;">
