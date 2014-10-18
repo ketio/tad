@@ -21,10 +21,10 @@
 				<div id="list">
 					<div id="list_item_1" class="list_item" data="1">【 藝術 × 投資 】</div>
 					<div id="list_item_2" class="list_item" data="2">【 藝術 × 時尚】</div>
-					<div id="list_item_3" class="list_item" data="3">【 藝術 × 人生 】</div>
 					<div id="list_item_4" class="list_item" data="4">【 藝術 × 居家空間 】</div>
-					<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
 					<div id="list_item_6" class="list_item" data="6">【 70、80 兩岸當代藝術家】</div>
+					<div id="list_item_5" class="list_item" data="5">【 藝術 × 閱讀 × 生活 】</div>
+					<div id="list_item_3" class="list_item" data="3">【 藝術 × 人生 】</div>
 				</div>
 				<div id="workshop_content">
 					<div id="content_page_1" class="content_page" data="1">
@@ -126,6 +126,9 @@
 								</a>
 							</div>
 						</div>
+						</br>
+						</br>
+						</br>
 					</div>
 					<div id="content_page_4" class="content_page" data="4">
 						<div class="content_title">
