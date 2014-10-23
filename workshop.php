@@ -118,7 +118,7 @@
 									攝影作品可見於近作 ‘Baroque Macao: The City, History and the Dialectical Image,’ Macau – Cultural Interaction and Literary Representation (Routledge, 2013)。<br>
 									短片導演：《亂語臺北》 (Taipei Astray), 2014。
 								</div>
-								<div class="workshop_photo"><img src="/img/workshop/講師_勞俊德.jpg" height="190"></div>
+								<div class="workshop_photo"><img src="/img/workshop/LouisLo.jpg" height="190"></div>
 							</div>
 							<div class="workshop_enroll">
 								<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">

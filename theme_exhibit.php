@@ -72,7 +72,7 @@
 				</div>
 				<div class="arthur">
 					<div class="arthur_photo">
-							<img src="img/themeexhibit/曹良賓(城市精神).jpg" height="280">
+							<img src="img/themeexhibit/cao.jpg" height="280">
 						</div>
 					<div class="arthur_info">
 						<strong>藝術家介紹｜曹良賓</strong>
