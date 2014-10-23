@@ -21,9 +21,11 @@
 				<div id="theme_sub">
 					戶外攝影展 ｜ 策展人：蔡家榛
 				</div>
+				
 				<div id="theme_banner">
-					<img src="img/slider/slider2.png" width="960">
+					<img src="img/themeexhibit/theme_banner.png" width="960">
 				</div>
+				
 				<div class="theme_category">
 					攝影展序言
 				</div>
@@ -34,7 +36,7 @@
 					展覽時間
 				</div>
 				<div class="theme_content">
-					10／24 − 11／16
+					11／13 − 11／23
 				</div>
 				<div class="theme_category">
 					展覽地點
@@ -69,6 +71,9 @@
 					過於喧囂的孤獨：曹良賓、陳以軒
 				</div>
 				<div class="arthur">
+					<div class="arthur_photo">
+							<img src="img/themeexhibit/曹良賓(城市精神).jpg" height="280">
+						</div>
 					<div class="arthur_info">
 						<strong>藝術家介紹｜曹良賓</strong>
 						<div>
