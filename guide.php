@@ -51,9 +51,9 @@
 						（六）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 假象的輪廓：彭泓智＆金基羅雙個展（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">藝術計畫</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">沁德居畫廊</a>）—— 常態展（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>
+						捷運西湖站 —— 假象的輪廓：彭泓智＆金基羅雙個展（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">藝術計畫</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">沁德居畫廊</a>）—— 想念台灣前輩的味道
 						<br>
-						／<a href="http://www.goethe-ming.com" target="_blank">哥德藝術中心</a>）—— 2014 亞洲不安之旅（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）＋講座【70，80 年代藝術家】鄭乃銘先生（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）
+						（<a href="http://www.goethe-ming.com" target="_blank">哥德藝術中心</a>）—— 2014 亞洲不安之旅（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）＋講座【70，80 年代藝術家】鄭乃銘先生（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）
 					</div>
 				</div>
 				<div>
@@ -65,7 +65,7 @@
 					<div class="guide_line">
 						捷運西湖站 —— 嘉年華（<a href="http://www.williamartsalon.com/" target="_blank">威廉藝術沙龍</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">沁德居畫廊</a>）—— 2014 亞洲不安之旅
 						<br>
-						（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）—— 常態展（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>／<a href="http://www.goethe-ming.com" target="_blank">哥德藝術中心</a>）＋講座【藝術×典藏投資】陸潔民先生（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>）
+						（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）—— 新生活的舞台（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>）＋講座【藝術×典藏投資】陸潔民先生（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>）
 					</div>
 				</div>
 				<div class="guide_enroll">
@@ -86,7 +86,7 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 大都−王懷慶個展（<a href="http://www.tinakenggallery.com" target="_blank">耿畫廊</a>）—— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts" target="_blank">愛力根畫廊</a>）——「抽象．符碼．東方情」── 臺灣現代藝術巨匠大展
+						捷運西湖站 —— 大都−王懷慶個展（<a href="http://www.tinakenggallery.com" target="_blank">耿畫廊</a>）——「抽象．符碼．東方情」── 臺灣現代藝術巨匠大展
 						<br>
 						（<a href="http://www.lianggallery.com/" target="_blank">尊彩藝術中心</a>）—— 凝視須臾-宜德思・盧信與琵亞・維仕坦伯格對話展（<a href="http://green.xuexue.tw" target="_blank">學學原色空間</a>）＋講座【藝術×時尚】盧淑芬小姐（<a href="http://green.xuexue.tw" target="_blank">學學文創志業</a>）
 					</div>
@@ -102,7 +102,7 @@
 						  <br>
 						  創作聯展（<a href="http://www.ibtef.org.tw" target="_blank">台灣工銀藝文空間</a>）——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（<a href="http://www.lianggallery.com/" target="_blank">尊彩藝術中心</a>）
 						  <br>
-						  —— 水・墨 靳杰強個展（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）＋講座【藝術×居家空間】王正凱先生（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）
+						  —— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts" target="_blank">愛力根畫廊</a>）—— 水・墨 靳杰強個展（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）＋講座【藝術×居家空間】王正凱先生（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）
 					</div>
 				</div>
 				<div class="guide_enroll">
@@ -125,7 +125,7 @@
 					<div class="guide_line">
 						捷運大直站 ——「人・形・雕」日本木雕藝術家聯展（<a href="http://www.cloud-gallery.org/" target="_blank">青雲畫廊</a>）—— 複調的詩學－楊識宏個展（<a href="http://www.asiaartcenter.org" target="_blank">亞洲藝術</a>）
 						<br>
-						—— 京都一布や－職人手作工房展（<a href="http://www.yohakugallery.com" target="_blank">餘白藝廊</a>）＋講座 【藝術×人生】勞維俊先生（<a href="http://www.asiaartcenter.org" target="_blank">亞洲藝術中心</a>）
+						—— 京都一布や－職人手作工房展（<a href="http://www.yohakugallery.com" target="_blank">餘白藝廊</a>）＋講座 【藝術×閱讀×生活】鄭俊德先生（<a href="http://www.yohakugallery.com" target="_blank">餘白藝廊 Yuhaku Gallery</a>）
 					</div>
 				</div>
 				<div>
@@ -135,9 +135,9 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運劍南站 —— 法國雕塑家 VAL 2014 新作與精選展（<a href="http://www.philippestaibgallery.com" target="_blank">菲利浦畫廊</a>）—— 采泥藝術 —— 京都一布や－職人手作工房展（<a href="http://www.yohakugallery.com" target="_blank">餘白藝廊</a>）
+						捷運劍南站 —— 法國雕塑家 VAL 2014 新作與精選展（<a href="http://www.philippestaibgallery.com" target="_blank">菲利浦畫廊</a>）—— Jo Hsieh（謝貽娟）個展(<a href="http://www.chinigallery.com/" target="_blank">采泥藝術</a>) 
 						<br>
-						—— 複調的詩學－楊識宏個展（<a href="http://www.asiaartcenter.org" target="_blank">亞洲藝術</a>）＋講座 【藝術×閱讀×生活】鄭俊德先生（<a href="http://www.yohakugallery.com" target="_blank">餘白藝廊 Yuhaku Gallery</a>）
+						—— 複調的詩學－楊識宏個展（<a href="http://www.asiaartcenter.org" target="_blank">亞洲藝術</a>）＋講座 【藝術×人生】勞維俊先生（<a href="http://www.asiaartcenter.org" target="_blank">亞洲藝術中心</a>）
 					</div>
 					<div class="guide_enroll">
 						<a href="https://docs.google.com/forms/d/18OyIv7zwee8RkwWRwEzV5PKGWMAvb6Q3qgeepvX2VCg/viewform" target="_blank">

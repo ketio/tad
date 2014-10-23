@@ -107,7 +107,7 @@
 							How to live poetically? This is a question posted by Liu Zai-fu, a scholar and a critic of The Story of the Stone. Liu thinks that Dai-yu represents the highest way of living: to live poetically. That is why she is the only person who understands Pao-yu. The talk explores the role of art in life, arguing that to ‘use’ art to ‘enrich’ life, as people usually say, is a misunderstanding of both the nature of art and life. ‘Using’ art or to ‘appreciate’ art will only lead to a fake life, and eventually living a life which repudiates life itself. The talk will discuss a few literary and filmic texts, exploring issues related to art, taste and aesthetics. The talk will be conducted in English, complemented by limited Mandarin.</br>
 							</br>
 							<div class="workshop_sub"><strong>講座資訊</strong></div>
-							<strong>主講人：</strong>勞維俊 Louis Lo (台北科技大學  英文系文化研究助理教授)</br>
+							<strong>主講人：</strong>勞維俊 Louis Lo (台北科技大學  英文系助理教授)</br>
 							<strong>時間：</strong>11 / 09（日）</br>
 							<strong>地點：</strong> <a href="http://www.asiaartcenter.org/">亞洲藝術中心</a>（台北市中山區樂群二路 93 號）</br>
 							<div class="workshop_sub"><strong>講師介紹</strong></div>
@@ -187,7 +187,7 @@
 							<div class="workshop_sub"><strong>講座資訊</strong></div>
 							<strong>主講人：</strong>鄭俊德（華人閱讀社群主編）</br>
 							<strong>時間：</strong>11 / 08（六）</br>
-							<strong>地點：</strong> <a href="http://www.artdoor.com.tw/">餘白 Yuhaku Gallery</a>（台北市中山區敬業二路 69 巷 28 號）</br>
+							<strong>地點：</strong> <a href="http://www.artdoor.com.tw/">餘白藝廊 Yuhaku Gallery</a>（台北市中山區敬業二路 69 巷 28 號）</br>
 							<div class="workshop_sub"><strong>講師介紹</strong></div>	
 							<div class="workshop_info">
 								<div class="workshop_arthur">	
