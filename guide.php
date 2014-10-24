@@ -63,7 +63,7 @@
 						（日）
 					</div>
 					<div class="guide_line">
-						捷運西湖站 —— 嘉年華（<a href="http://www.williamartsalon.com/" target="_blank">威廉藝術沙龍</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">沁德居畫廊</a>）—— 2014 亞洲不安之旅
+						捷運西湖站 —— 嘉年華（<a href="http://www.williamartsalon.com/" target="_blank">威廉藝術沙龍</a>）—— 美術史的榮耀與經典（<a href="http://tw.myblog.yahoo.com/chinderjyugallery" target="_blank">沁德居藝廊</a>）—— 2014 亞洲不安之旅
 						<br>
 						（<a href="http://www.fishart.com.tw" target="_blank">秋刀魚藝術中心</a>）—— 新生活的舞台（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>）＋講座【藝術×典藏投資】陸潔民先生（<a href="http://www.goethe-ming.com" target="_blank">旻谷藝術</a>）
 					</div>
