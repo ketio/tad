@@ -98,11 +98,11 @@
 						（六）
 					</div>
 					<div class="three_lines">
-						  捷運西湖站 —— 雕・塑－永恆的建築：阿爾瓦羅・西薩亞洲作品展（<a href="http://green.xuexue.tw" target="_blank">學學實聯藝術空間</a>）——【台灣工銀堤頂之星藝術展：彼岸控】
+						  捷運西湖站 —— 狂墨-吳炫三個展（<a href="http://white.xuexue.tw" target="_blank">學學白色空間</a>）——【台灣工銀堤頂之星藝術展：彼岸控】創作聯展（<a href="http://www.ibtef.org.tw" target="_blank">台灣工銀藝文空間</a>）
 						  <br>
-						  創作聯展（<a href="http://www.ibtef.org.tw" target="_blank">台灣工銀藝文空間</a>）——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（<a href="http://www.lianggallery.com/" target="_blank">尊彩藝術中心</a>）
+						  ——「抽象・符碼・東方情」── 臺灣現代藝術巨匠大展（<a href="http://www.lianggallery.com/" target="_blank">尊彩藝術中心</a>） —— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts" target="_blank">愛力根畫廊</a>）
 						  <br>
-						  —— 世界名畫典藏展（<a href="https://www.facebook.com/galerie.elegance?fref=ts" target="_blank">愛力根畫廊</a>）—— 水・墨 靳杰強個展（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）＋講座【藝術×居家空間】王正凱先生（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）
+						 —— 水・墨 靳杰強個展（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）＋講座【藝術×居家空間】王正凱先生（<a href="http://www.artdoor.com.tw" target="_blank">藝境畫廊</a>）
 					</div>
 				</div>
 				<div class="guide_enroll">
