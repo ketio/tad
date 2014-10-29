@@ -23,7 +23,7 @@
 				</div>
 				
 				<div id="theme_banner">
-					<img src="img/themeexhibit/theme_banner.png" width="960">
+					<img src="img/themeexhibit/slider2(小檔).jpg" width="960">
 				</div>
 				
 				<div class="theme_category">
