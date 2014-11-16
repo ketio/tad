@@ -15,7 +15,54 @@
 		?>
 
 		<div id="content_news">
-
+					<div class="list_news">
+						<div>
+							<div class="date_news">
+								2014／11／14
+							</div>
+							<div class="press_news">
+								自由時報：〈台北都會〉大內藝術街區 年底前推24檔展覽
+							</div>
+						</div>
+						<div class="content_news">
+								台北創意街區又多一個！文化局串聯內湖大直二十多家畫廊與藝術機構，打造北市第一個國際藝術街區，並以「城市精神」為主題，推出第一屆「台北大內藝術節」，即日起在捷運劍南路站有「城市精神攝影展」⋯⋯
+						</div>
+						<div class="more_news">
+								<a href="http://news.ltn.com.tw/news/local/paper/830133" target="_BLANK"> more 〉</a>
+						</div>
+					</div>
+					<div class="list_news">
+						<div>
+							<div class="date_news">
+								2014／11／14
+							</div>
+							<div class="press_news">
+								聯合報：大內藝術節…美麗華前廣場 變身創意街區
+							</div>
+						</div>
+						<div class="content_news">
+								「2014台北大內藝術節」昨天開展，美麗華百貨前「中山21號廣場」十數個大型攝影作品，與街景融為一體，成為創意街頭美術館。首屆台北大內藝術節以創意街區方式，讓經過的民眾能夠欣賞5位國內外藝術家⋯⋯
+						</div>
+						<div class="more_news">
+								<a href="http://udn.com/NEWS/DOMESTIC/DOM2/9064915.shtml" target="_BLANK"> more 〉</a>
+						</div>
+					</div>
+					<div class="list_news">
+						<div>
+							<div class="date_news">
+								2014／11／13
+							</div>
+							<div class="press_news">
+								自立晚報：串連21家畫廊及藝術機構 大內藝術節內湖展出
+							</div>
+						</div>
+						<div class="content_news">
+								臺北創意街區地圖上的新亮點：大內藝術區，為大直與內湖創造新的有機人文生態，並且大聲宣示既有專業價值創造、又有人文藝術創意無限的臺北城市精神！正式成為臺北第13個創意街區大內藝術區⋯⋯
+						</div>
+						<div class="more_news">
+								<a href="https://tw.news.yahoo.com/%E4%B8%B2%E9%80%A321%E5%AE%B6%E7%95%AB%E5%BB%8A%E5%8F%8A%E8%97%9D%E8%A1%93%E6%A9%9F%E6%A7%8B-%E5%A4%A7%E5%85%A7%E8%97%9D%E8%A1%93%E7%AF%80%E5%85%A7%E6%B9%96%E5%B1%95%E5%87%BA-124753850.html" target="_BLANK"> more 〉</a>
+						</div>
+					</div>
 					<div class="list_news">
 						<div>
 							<div class="date_news">
@@ -82,7 +129,22 @@
 								<a href="http://www.chinatimes.com/newspapers/20140731000135-260204" target="_BLANK"> more 〉</a>
 							</div>	
 					</div>
-
+					<div class="list_news">
+						<div>
+							<div class="date_news">
+								2014／7／30
+							</div>
+							<div class="press_news">
+								新網：大內藝術區成立 效仿北京798產生群聚
+							</div>
+						</div>
+						<div class="content_news">
+								「台北大內藝術區聯誼會」集結20餘家畫廊和藝文空間，今日在台北市大直和內湖地區成立。首屆會長李敦朗期許能像中國北京798藝術區、美國紐約雀兒喜區一樣，產生群聚效果⋯⋯
+						</div>
+						<div class="more_news">
+								<a href="http://newnet.tw/Newsletter/Comment.aspx?Iinfo=5&iNumber=15132#ixzz3J1S2zLEt" target="_BLANK"> more 〉</a>
+						</div>
+					</div>
 					<div class="list_news">
 						<div>
 							<div class="date_news">
