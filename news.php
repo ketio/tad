@@ -21,6 +21,22 @@
 								2014／11／14
 							</div>
 							<div class="press_news">
+								大內藝術街區：【大內藝術節】串連21家畫廊及藝術機構
+							</div>
+						</div>
+						<div class="content_news">
+								臺北創意街區地圖上的新亮點：大內藝術區，為大直與內湖創造新的有機人文生態，並且大聲宣示既有專業價值創造、又有人文藝術創意無限的臺北城市精神！正式成為臺北第13個創意街區大內藝術區⋯⋯
+						</div>
+						<div class="more_news">
+								<a href="http://artemperor.tw/tidbits_page.php?table=tidbits&id=1385?1" target="_BLANK"> more 〉</a>
+						</div>
+					</div>
+					<div class="list_news">
+						<div>
+							<div class="date_news">
+								2014／11／14
+							</div>
+							<div class="press_news">
 								自由時報：〈台北都會〉大內藝術街區 年底前推24檔展覽
 							</div>
 						</div>
